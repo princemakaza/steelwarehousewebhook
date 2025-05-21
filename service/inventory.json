@@ -1,0 +1,7177 @@
+[
+  {
+    "Item No.": 1001,
+    "Item Description": "10000x2000x10mm Plate",
+    "In Stock": 4,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1002,
+    "Item Description": "10000x2000x6mm Plate",
+    "In Stock": 21,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1003,
+    "Item Description": "10000x2000x8mm Plate",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1004,
+    "Item Description": "10000x2400x6mm Plate",
+    "In Stock": 2,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1005,
+    "Item Description": "78MR 2.50mm Low Hydrogen Rod",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1006,
+    "Item Description": "78MR 3.15mm Low Hydrogen Rod",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1007,
+    "Item Description": "78MR 4.00mm Low Hydrogen Rod",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1008,
+    "Item Description": "AFRO 316L Stainless Steel",
+    "In Stock": 22,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1009,
+    "Item Description": "Aluminium Chequer Plate 2500x1250x1.5mm",
+    "In Stock": 47,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1010,
+    "Item Description": "Aluminium Chequer Plate 2500x1250x2.0mm",
+    "In Stock": 49,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1011,
+    "Item Description": "Aluminium Chequer Plate 2500x1250x3.0mm",
+    "In Stock": 45,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1012,
+    "Item Description": "Aluminium Flat 2500x1250x0.9mm",
+    "In Stock": 42,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1013,
+    "Item Description": "Aluminium Flat 2500x1250x1.6mm",
+    "In Stock": 51,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1014,
+    "Item Description": "Aluminium Flat 2500x1250x2.0mm",
+    "In Stock": 46,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1015,
+    "Item Description": "Aluminium Flat 2500x1250x3.0mm",
+    "In Stock": 41,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1016,
+    "Item Description": "Angle Iron 100x100x10mm",
+    "In Stock": 57,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1017,
+    "Item Description": "Angle Iron 100x100x8mm",
+    "In Stock": 39,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1018,
+    "Item Description": "Angle Iron 120x120x8mm",
+    "In Stock": "",
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1019,
+    "Item Description": "Angle Iron 25x25x3mm",
+    "In Stock": "1,001",
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1020,
+    "Item Description": "Angle Iron 25x25x5mm",
+    "In Stock": 225,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1021,
+    "Item Description": "Angle Iron 30x30x3mm",
+    "In Stock": 639,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1022,
+    "Item Description": "Angle Iron 30x30x5mm",
+    "In Stock": 787,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1023,
+    "Item Description": "Angle Iron 40x40x3mm",
+    "In Stock": 331,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1024,
+    "Item Description": "Angle Iron 40x40x5mm",
+    "In Stock": "1,027",
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1025,
+    "Item Description": "Angle Iron 40x40x6mm",
+    "In Stock": 468,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1026,
+    "Item Description": "Angle Iron 50x50x3mm",
+    "In Stock": "1,422",
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1027,
+    "Item Description": "Angle Iron 50x50x5mm",
+    "In Stock": "1,092",
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1028,
+    "Item Description": "Angle Iron 50x50x6mm",
+    "In Stock": 475,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1029,
+    "Item Description": "Angle Iron 60x60x5mm",
+    "In Stock": 354,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1030,
+    "Item Description": "Angle Iron 60x60x6mm",
+    "In Stock": 319,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1031,
+    "Item Description": "Angle Iron 60x60x8mm",
+    "In Stock": 76,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1032,
+    "Item Description": "Angle Iron 70x70x6mm",
+    "In Stock": 152,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1033,
+    "Item Description": "Angle Iron 75x50x6mm Unequal",
+    "In Stock": 24,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1034,
+    "Item Description": "Angle Iron 80x80x6mm",
+    "In Stock": 469,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1035,
+    "Item Description": "Angle Iron 80x80x8mm",
+    "In Stock": 163,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1036,
+    "Item Description": "Barbed Wire (Rolls) 25kg (400m) Double Strand 2.0mm",
+    "In Stock": 187,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1037,
+    "Item Description": "Barbed Wire (Rolls) 35kg (845m) Galvanized 1.6mm",
+    "In Stock": 2,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1038,
+    "Item Description": "Barbed Wire (Rolls) 40kg (800m) Double Strand 1.7mm",
+    "In Stock": 100,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1039,
+    "Item Description": "Barbed Wire (Rolls) 50kg (800m) Double Strand 2.0mm",
+    "In Stock": 187,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1040,
+    "Item Description": "Beams  IPE AA S355 JR 200x100mm 13m",
+    "In Stock": 20,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1041,
+    "Item Description": "Beams IPE AA S355 JR 140x73mm 13m",
+    "In Stock": 63,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1042,
+    "Item Description": "Beams IPE AA S355 JR 160x82mm 13m",
+    "In Stock": 3,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1043,
+    "Item Description": "Beams IPE AA S355 JR 180x91mm 13m",
+    "In Stock": 156,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1044,
+    "Item Description": "Bennox Plate 2500x1200x10mm",
+    "In Stock": 40,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1045,
+    "Item Description": "Bennox Plate 2500x1200x12mm",
+    "In Stock": 28,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1046,
+    "Item Description": "Bennox Plate 2500x1200x16mm",
+    "In Stock": 9,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1047,
+    "Item Description": "Bennox Plate 2500x1200x20mm",
+    "In Stock": 9,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1048,
+    "Item Description": "Bennox Plate 2500x1200x25mm",
+    "In Stock": 12,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1049,
+    "Item Description": "Bennox Plate 2500x1200x6mm",
+    "In Stock": 43,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1050,
+    "Item Description": "Bennox Plate 2500x1200x8mm",
+    "In Stock": 35,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1051,
+    "Item Description": "Bird Mesh 0.9m",
+    "In Stock": 6,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1052,
+    "Item Description": "Bird Mesh 1.2m",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1053,
+    "Item Description": "Bird Mesh 1.8m",
+    "In Stock": 125,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1054,
+    "Item Description": "Black Tying Wire 1.6mm (3175m / 50kg)",
+    "In Stock": 667.5,
+    "Item Group": "Wire",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1055,
+    "Item Description": "Brickforce 115mm (4.5\") x 20m",
+    "In Stock": 600,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1056,
+    "Item Description": "Brickforce 230mm (9\") x 20m",
+    "In Stock": 175.6,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1057,
+    "Item Description": "Bullet 16mm 100mm",
+    "In Stock": 11,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1058,
+    "Item Description": "Bullet 16mm 70mm",
+    "In Stock": 106,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1059,
+    "Item Description": "Bullet 20mm 100mm",
+    "In Stock": 42,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1060,
+    "Item Description": "Bullet 20mm 70mm",
+    "In Stock": 46,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1061,
+    "Item Description": "Bullet 25mm",
+    "In Stock": 108,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1062,
+    "Item Description": "Channel 100x50mm 6m STD (Blue)",
+    "In Stock": 260,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1063,
+    "Item Description": "Channel 127x64mm 6m",
+    "In Stock": 216,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1064,
+    "Item Description": "Channel 152x76mm 6m",
+    "In Stock": 314,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1065,
+    "Item Description": "Channel 200x75mm 13m",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1066,
+    "Item Description": "Channel 200x75mm 6m",
+    "In Stock": 3,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1067,
+    "Item Description": "Channel 76x38mm 6m Light",
+    "In Stock": "3,097",
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1068,
+    "Item Description": "Chequer Plate Mild Steel 2500x1200x3.0/4.6mm",
+    "In Stock": 16,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1069,
+    "Item Description": "Chequer Plate Mild Steel 2500x1200x4.5/6.1mm",
+    "In Stock": 10,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1070,
+    "Item Description": "Chequer Plate Mild Steel 2500x1200x6.0/7.1mm",
+    "In Stock": 108,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1071,
+    "Item Description": "Chicken Mesh 0.9m",
+    "In Stock": 45,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1072,
+    "Item Description": "Chicken Mesh 1.2m",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1073,
+    "Item Description": "Chicken Mesh 1.8m",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1074,
+    "Item Description": "Chromadek Q-Tile 925x0.47mm",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1075,
+    "Item Description": "Chromadek Q-Tile 925x0.4mm",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1076,
+    "Item Description": "Chromadek Standard 914x0.3mm",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1077,
+    "Item Description": "Chromadek Standard 925x0.47mm",
+    "In Stock": "1,721.29",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1078,
+    "Item Description": "Chromadek Standard 925x0.4mm",
+    "In Stock": "1,004.60",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1079,
+    "Item Description": "Chromadek Standard 925x0.58mm",
+    "In Stock": 47.547,
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1080,
+    "Item Description": "Colorplus Coil AZ100 ISQ550 0.47mm Thunderstrom",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1081,
+    "Item Description": "Conforce Mesh Wire ECO 200x200x4.3mm (6x2.4) 16kg",
+    "In Stock": 666,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1082,
+    "Item Description": "Conforce Mesh Wire S100 200x200x4.00mm (6x2.4) 14.40kg",
+    "In Stock": 42,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1083,
+    "Item Description": "Conforce Mesh Wire S156 100x100x3.55mm (6x2.4) 22.5kg",
+    "In Stock": 39,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1084,
+    "Item Description": "Builders Mesh Wire S193 220x220x5.0mm (6x2.4) 20kg",
+    "In Stock": 39,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1085,
+    "Item Description": "Builders Mesh Wire S193 220x220x5.00mm (ROLL)",
+    "In Stock": 33,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1086,
+    "Item Description": "Conforce Mesh Wire S245 200x200x6.30mm (6x2.4) 31.56kg",
+    "In Stock": 201,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1087,
+    "Item Description": "Conforce Mesh Wire S395 200x200x8mm (6x2.4) 56.9kg",
+    "In Stock": 12,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1088,
+    "Item Description": "CR Coil CQ 1200x0.50",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1089,
+    "Item Description": "CR Coil CQ 1200x0.75",
+    "In Stock": "6,740",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1090,
+    "Item Description": "CR Coil CQ 1200x1.14",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1091,
+    "Item Description": "CR Coil CQ 1200x1.2",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1092,
+    "Item Description": "CR Coil CQ 1225x0.56",
+    "In Stock": "19,035.66",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1093,
+    "Item Description": "CR Coil CQ 1225x0.66",
+    "In Stock": "59,394.48",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1094,
+    "Item Description": "CR Coil CQ 1225x0.76",
+    "In Stock": "32,496.38",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1095,
+    "Item Description": "CR Coil CQ 1225x1.0",
+    "In Stock": 0.191,
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1096,
+    "Item Description": "CR Coil CQ 1225x1.5",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1097,
+    "Item Description": "Diamond Mesh (Rolls) 1.2x75x2.5mm 30m",
+    "In Stock": 40,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1098,
+    "Item Description": "Diamond Mesh (Rolls) 1.2x75x2mm 30m",
+    "In Stock": 29,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1099,
+    "Item Description": "Diamond Mesh (Rolls) 1.5x75x2.5mm 30m",
+    "In Stock": 61,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1100,
+    "Item Description": "Diamond Mesh (Rolls) 1.5x75x2mm 30m",
+    "In Stock": 12,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1101,
+    "Item Description": "Diamond Mesh (Rolls) 1.8x75x2.5mm 30m",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1102,
+    "Item Description": "Diamond Mesh (Rolls) 1.8x75x2mm 30m",
+    "In Stock": 67,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1103,
+    "Item Description": "Diamond Mesh (Rolls) 2.1x75x2.5mm 30m",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1104,
+    "Item Description": "Diamond Mesh (Rolls) 2.1x75x2mm 30m",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1105,
+    "Item Description": "Diamond Mesh (Rolls) 2.4x75x2.5mm 30m",
+    "In Stock": 3,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1106,
+    "Item Description": "Door Cap 0.4mm Chromadek Door Cap (1200mm)",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1107,
+    "Item Description": "Door Cap 0.4mm Galvanized Door Cap (1200mm)",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1108,
+    "Item Description": "DPC Dampcourse 110mm",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1109,
+    "Item Description": "DPC Dampcourse 230mm",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1110,
+    "Item Description": "EN19 Black 100",
+    "In Stock": 2.39,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1111,
+    "Item Description": "EN19 Black 105",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1112,
+    "Item Description": "EN19 Black 110",
+    "In Stock": 10.59,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1113,
+    "Item Description": "EN19 Black 120",
+    "In Stock": 0.235,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1114,
+    "Item Description": "EN19 Black 130",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1115,
+    "Item Description": "EN19 Black 140",
+    "In Stock": 2.07,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1116,
+    "Item Description": "EN19 Black 150",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1117,
+    "Item Description": "EN19 Black 16",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1118,
+    "Item Description": "EN19 Black 160",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1119,
+    "Item Description": "EN19 Black 180",
+    "In Stock": 0.02,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1120,
+    "Item Description": "EN19 Black 20",
+    "In Stock": 1.225,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1121,
+    "Item Description": "EN19 Black 203",
+    "In Stock": 2.7,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1122,
+    "Item Description": "EN19 Black 210",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1123,
+    "Item Description": "EN19 Black 220",
+    "In Stock": 2.6,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1124,
+    "Item Description": "EN19 Black 25",
+    "In Stock": 95.96,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1125,
+    "Item Description": "EN19 Black 250",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1126,
+    "Item Description": "EN19 Black 30",
+    "In Stock": 13.51,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1127,
+    "Item Description": "EN19 Black 32",
+    "In Stock": 16.79,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1128,
+    "Item Description": "EN19 Black 35",
+    "In Stock": 31.34,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1129,
+    "Item Description": "EN19 Black 36",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1130,
+    "Item Description": "EN19 Black 38",
+    "In Stock": 9.5,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1131,
+    "Item Description": "EN19 Black 40",
+    "In Stock": 12.39,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1132,
+    "Item Description": "EN19 Black 45",
+    "In Stock": 3.18,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1133,
+    "Item Description": "EN19 Black 50",
+    "In Stock": 19.16,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1134,
+    "Item Description": "EN19 Black 55",
+    "In Stock": 8.415,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1135,
+    "Item Description": "EN19 Black 60",
+    "In Stock": 19.926,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1136,
+    "Item Description": "EN19 Black 65",
+    "In Stock": 0.03,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1137,
+    "Item Description": "EN19 Black 70",
+    "In Stock": 16.598,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1138,
+    "Item Description": "EN19 Black 75",
+    "In Stock": 4.78,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1139,
+    "Item Description": "EN19 Black 80",
+    "In Stock": 16.37,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1140,
+    "Item Description": "EN19 Black 85",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1141,
+    "Item Description": "EN19 Black 90",
+    "In Stock": 9.88,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1142,
+    "Item Description": "EN24 100",
+    "In Stock": 0.47,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1143,
+    "Item Description": "EN24 160",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1144,
+    "Item Description": "EN24 30",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1145,
+    "Item Description": "EN24 40",
+    "In Stock": 0.01,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1146,
+    "Item Description": "EN24 70",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1147,
+    "Item Description": "EN24 75",
+    "In Stock": 0.01,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1148,
+    "Item Description": "EN24 80",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1149,
+    "Item Description": "EN24 90",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1150,
+    "Item Description": "EN3 100",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1151,
+    "Item Description": "EN3 12",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1152,
+    "Item Description": "EN3 140",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1153,
+    "Item Description": "EN3 150",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1154,
+    "Item Description": "EN3 16",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1155,
+    "Item Description": "EN3 160",
+    "In Stock": 0.595,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1156,
+    "Item Description": "EN3 24",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1157,
+    "Item Description": "EN3 27",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1158,
+    "Item Description": "EN3 28",
+    "In Stock": 16.13,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1159,
+    "Item Description": "EN3 30",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1160,
+    "Item Description": "EN3 38",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1161,
+    "Item Description": "EN3 40",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1162,
+    "Item Description": "EN3 55",
+    "In Stock": 0.73,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1163,
+    "Item Description": "EN3 65",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1164,
+    "Item Description": "EN3 70",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1165,
+    "Item Description": "EN3 75",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1166,
+    "Item Description": "EN3 90",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1167,
+    "Item Description": "EN8 Black 112.5x112.5mm Square Bar",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1168,
+    "Item Description": "EN8 Black 19",
+    "In Stock": 46.78,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1169,
+    "Item Description": "EN8 Black 28",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1170,
+    "Item Description": "EN8 Black 32",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1171,
+    "Item Description": "EN8 Black 45",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1172,
+    "Item Description": "EN8 Black 50",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1173,
+    "Item Description": "EN8 Black 50x50mm Square Bar",
+    "In Stock": 0.36,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1174,
+    "Item Description": "EN8 Black 55",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1175,
+    "Item Description": "EN8 Black 65",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1176,
+    "Item Description": "EN8 Black 90",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1177,
+    "Item Description": "EN8 Black 95",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1178,
+    "Item Description": "EN8 Bright 10",
+    "In Stock": "1,337.11",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1179,
+    "Item Description": "EN8 Bright 10.7",
+    "In Stock": "1,162.81",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1180,
+    "Item Description": "EN8 Bright 100",
+    "In Stock": 31.667,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1181,
+    "Item Description": "EN8 Bright 105",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1182,
+    "Item Description": "EN8 Bright 110",
+    "In Stock": 2.05,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1183,
+    "Item Description": "EN8 Bright 115",
+    "In Stock": 5.145,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1184,
+    "Item Description": "EN8 Bright 12",
+    "In Stock": 31.3,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1185,
+    "Item Description": "EN8 Bright 12.7",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1186,
+    "Item Description": "EN8 Bright 120",
+    "In Stock": 4.097,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1187,
+    "Item Description": "EN8 Bright 125",
+    "In Stock": 6.21,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1188,
+    "Item Description": "EN8 Bright 130",
+    "In Stock": 8.965,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1189,
+    "Item Description": "EN8 Bright 14",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1190,
+    "Item Description": "EN8 Bright 14.29",
+    "In Stock": 207.3,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1191,
+    "Item Description": "EN8 Bright 14.5",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1192,
+    "Item Description": "EN8 Bright 140",
+    "In Stock": 4.063,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1193,
+    "Item Description": "EN8 Bright 15.87",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1194,
+    "Item Description": "EN8 Bright 150",
+    "In Stock": 9.095,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1195,
+    "Item Description": "EN8 Bright 152.4",
+    "In Stock": 19.485,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1196,
+    "Item Description": "EN8 Bright 16",
+    "In Stock": 166.54,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1197,
+    "Item Description": "EN8 Bright 160",
+    "In Stock": 3.367,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1198,
+    "Item Description": "EN8 Bright 17",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1199,
+    "Item Description": "EN8 Bright 17.25",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1200,
+    "Item Description": "EN8 Bright 18",
+    "In Stock": 116.26,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1201,
+    "Item Description": "EN8 Bright 18.2",
+    "In Stock": "1,350.42",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1202,
+    "Item Description": "EN8 Bright 19",
+    "In Stock": 858.59,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1203,
+    "Item Description": "EN8 Bright 19.05",
+    "In Stock": 582.29,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1204,
+    "Item Description": "EN8 Bright 20",
+    "In Stock": 298.07,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1205,
+    "Item Description": "EN8 Bright 20.2",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1206,
+    "Item Description": "EN8 Bright 20.56",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1207,
+    "Item Description": "EN8 Bright 20.9",
+    "In Stock": 0.35,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1208,
+    "Item Description": "EN8 Bright 21.8",
+    "In Stock": 183,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1209,
+    "Item Description": "EN8 Bright 22",
+    "In Stock": 223.71,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1210,
+    "Item Description": "EN8 Bright 22.22",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1211,
+    "Item Description": "EN8 Bright 24",
+    "In Stock": 37.735,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1212,
+    "Item Description": "EN8 Bright 25",
+    "In Stock": 193.08,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1213,
+    "Item Description": "EN8 Bright 25.4",
+    "In Stock": 275.73,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1214,
+    "Item Description": "EN8 Bright 27",
+    "In Stock": 6.59,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1215,
+    "Item Description": "EN8 Bright 28",
+    "In Stock": 34.8,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1216,
+    "Item Description": "EN8 Bright 28.57",
+    "In Stock": 2.55,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1217,
+    "Item Description": "EN8 Bright 30",
+    "In Stock": 187.62,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1218,
+    "Item Description": "EN8 Bright 31.75",
+    "In Stock": 0.14,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1219,
+    "Item Description": "EN8 Bright 32",
+    "In Stock": 9.62,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1220,
+    "Item Description": "EN8 Bright 35",
+    "In Stock": 101.405,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1221,
+    "Item Description": "EN8 Bright 36",
+    "In Stock": 1.02,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1222,
+    "Item Description": "EN8 Bright 38",
+    "In Stock": 51.252,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1223,
+    "Item Description": "EN8 Bright 38.1",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1224,
+    "Item Description": "EN8 Bright 38.65",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1225,
+    "Item Description": "EN8 Bright 40",
+    "In Stock": 68.18,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1226,
+    "Item Description": "EN8 Bright 42",
+    "In Stock": 41.21,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1227,
+    "Item Description": "EN8 Bright 44.45",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1228,
+    "Item Description": "EN8 Bright 45",
+    "In Stock": 42.609,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1229,
+    "Item Description": "EN8 Bright 48",
+    "In Stock": 30.5,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1230,
+    "Item Description": "EN8 Bright 50",
+    "In Stock": 157.263,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1231,
+    "Item Description": "EN8 Bright 50.8",
+    "In Stock": 2.11,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1232,
+    "Item Description": "EN8 Bright 55",
+    "In Stock": 45.6,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1233,
+    "Item Description": "EN8 Bright 57.15",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1234,
+    "Item Description": "EN8 Bright 59.9",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1235,
+    "Item Description": "EN8 Bright 60",
+    "In Stock": 30.73,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1236,
+    "Item Description": "EN8 Bright 63.5",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1237,
+    "Item Description": "EN8 Bright 65",
+    "In Stock": 13.055,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1238,
+    "Item Description": "EN8 Bright 70",
+    "In Stock": 34.665,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1239,
+    "Item Description": "EN8 Bright 75",
+    "In Stock": 16.19,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1240,
+    "Item Description": "EN8 Bright 76.2",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1241,
+    "Item Description": "EN8 Bright 8",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1242,
+    "Item Description": "EN8 Bright 80",
+    "In Stock": 6.75,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1243,
+    "Item Description": "EN8 Bright 85",
+    "In Stock": 17.265,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1244,
+    "Item Description": "EN8 Bright 90",
+    "In Stock": 16.545,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1245,
+    "Item Description": "EN8 Bright 95",
+    "In Stock": 11.435,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1246,
+    "Item Description": "EN9 Black 100",
+    "In Stock": 0.045,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1247,
+    "Item Description": "EN9 Black 110",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1248,
+    "Item Description": "EN9 Black 120",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1249,
+    "Item Description": "EN9 Black 140",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1250,
+    "Item Description": "EN9 Black 150",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1251,
+    "Item Description": "EN9 Black 160",
+    "In Stock": 2.93,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1252,
+    "Item Description": "EN9 Black 180",
+    "In Stock": 5.22,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1253,
+    "Item Description": "EN9 Black 203",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1254,
+    "Item Description": "EN9 Black 210",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1255,
+    "Item Description": "EN9 Black 220",
+    "In Stock": 3.615,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1256,
+    "Item Description": "EN9 Black 25",
+    "In Stock": 10.99,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1257,
+    "Item Description": "EN9 Black 250",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1258,
+    "Item Description": "EN9 Black 260",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1259,
+    "Item Description": "EN9 Black 40",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1260,
+    "Item Description": "EN9 Black 50",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1261,
+    "Item Description": "EN9 Black 60",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1262,
+    "Item Description": "EN9 Black 80",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1263,
+    "Item Description": "Expanded Metal 18-3F Raised 2400x1200 16x30x1.6mm",
+    "In Stock": "",
+    "Item Group": "Expanded",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1264,
+    "Item Description": "Expanded Metal 230R Raised 2400x1200 3x6x0.5mm",
+    "In Stock": "",
+    "Item Group": "Expanded",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1265,
+    "Item Description": "Expanded Metal 250D Raised 2400x1200 5x10x1.0mm",
+    "In Stock": 141,
+    "Item Group": "Expanded",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1266,
+    "Item Description": "Expanded Metal 280D Raised 2400x1200 8x20x1.0mm",
+    "In Stock": 46,
+    "Item Group": "Expanded",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1267,
+    "Item Description": "Expanded Metal 305B Raised 2400x1200 50x100x4.5mm",
+    "In Stock": 35,
+    "Item Group": "Expanded",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1268,
+    "Item Description": "Expanded Metal 320G Raised 2400x1200 25x50x3mm",
+    "In Stock": 34,
+    "Item Group": "Expanded",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1269,
+    "Item Description": "Expanded Metal 489 Raised 2400x1200 100x35x8mm",
+    "In Stock": 214,
+    "Item Group": "Expanded",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1270,
+    "Item Description": "Expanded Metal 6250D Flat 2400x1200 5x10x1.0mm",
+    "In Stock": 58,
+    "Item Group": "Expanded",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1271,
+    "Item Description": "Expanded Metal 6311E Raised 2400x1200 50x70x3mm",
+    "In Stock": "",
+    "Item Group": "Expanded",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1272,
+    "Item Description": "Expanded Metal 6311E Raised 2400x1200 50x70x3.0mm",
+    "In Stock": "",
+    "Item Group": "Expanded",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1273,
+    "Item Description": "Expanded Metal 6311F Flat 2400x1200 75x50x2.5mm",
+    "In Stock": 48,
+    "Item Group": "Expanded",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1274,
+    "Item Description": "Expanded Metal 6318F Flat 2400x1200 35x20x1.5mm",
+    "In Stock": 314,
+    "Item Group": "Expanded",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1275,
+    "Item Description": "Expanded Metal 6320C Flat 2400x1200 25x50x1.6mm",
+    "In Stock": "",
+    "Item Group": "Expanded",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1276,
+    "Item Description": "Expanded Metal 6320E Flat 2400x1200 12x30x2.5mm",
+    "In Stock": "",
+    "Item Group": "Expanded",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1277,
+    "Item Description": "Expanded Metal 6320G Flat 2400x1200 25x50x3.0mm",
+    "In Stock": 4,
+    "Item Group": "Expanded",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1278,
+    "Item Description": "Expanded Metal 6320H Flat 2400x1200 25x50x3mm",
+    "In Stock": 10,
+    "Item Group": "Expanded",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1279,
+    "Item Description": "Fencing Standard Double Vee 1.8m",
+    "In Stock": "",
+    "Item Group": "Fencing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1280,
+    "Item Description": "Fencing Standard Double Vee 7.2m",
+    "In Stock": "1,011",
+    "Item Group": "Fencing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1281,
+    "Item Description": "Fencing Standard Double Vee Drilled & Painted 1800mm",
+    "In Stock": "",
+    "Item Group": "Fencing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1282,
+    "Item Description": "Fencing Standard Double Vee Drilled & Painted 2400mm",
+    "In Stock": "",
+    "Item Group": "Fencing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1283,
+    "Item Description": "Ferpinta  3600x637x0.25mm IBR",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1284,
+    "Item Description": "Field Fencing (Rolls) 1.2MTR (100m) LOCAL",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1285,
+    "Item Description": "Field Fencing (Rolls) 1.5MTR (100m) LOCAL",
+    "In Stock": 86,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1286,
+    "Item Description": "Field Fencing (Rolls) 1.8MTR (100m) LOCAL",
+    "In Stock": 27,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1287,
+    "Item Description": "Flashing 0.4mm Chromadek Side/Top Flashing (2400mm)",
+    "In Stock": 6,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1288,
+    "Item Description": "Flashing 0.4mm Galvanized Side/Top Flashing (2400mm)",
+    "In Stock": 12,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1289,
+    "Item Description": "Flat Bar 100x10mm",
+    "In Stock": 121,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1290,
+    "Item Description": "Flat Bar 100x12mm",
+    "In Stock": 1,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1291,
+    "Item Description": "Flat Bar 100x6mm",
+    "In Stock": 46,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1292,
+    "Item Description": "Flat Bar 100x8mm",
+    "In Stock": 111,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1293,
+    "Item Description": "Flat Bar 130x10mm",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1294,
+    "Item Description": "Flat Bar 130x12mm",
+    "In Stock": 29,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1295,
+    "Item Description": "Flat Bar 130x8mm",
+    "In Stock": 72,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1296,
+    "Item Description": "Flat Bar 150x10mm",
+    "In Stock": 109,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1297,
+    "Item Description": "Flat Bar 150x12mm",
+    "In Stock": 53,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1298,
+    "Item Description": "Flat Bar 150x6mm",
+    "In Stock": 42,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1299,
+    "Item Description": "Flat Bar 150x8mm",
+    "In Stock": 83,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1300,
+    "Item Description": "Flat Bar 200x10mm",
+    "In Stock": 1,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1301,
+    "Item Description": "Flat Bar 200x12mm",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1302,
+    "Item Description": "Flat Bar 20x3mm",
+    "In Stock": "1,236",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1303,
+    "Item Description": "Flat Bar 20x5mm",
+    "In Stock": "1,408",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1304,
+    "Item Description": "Flat Bar 25x3mm",
+    "In Stock": "1,742",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1305,
+    "Item Description": "Flat Bar 25x4mm",
+    "In Stock": "1,260",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1306,
+    "Item Description": "Flat Bar 25x5mm",
+    "In Stock": "1,408",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1307,
+    "Item Description": "Flat Bar 30x10mm",
+    "In Stock": 7,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1308,
+    "Item Description": "Flat Bar 30x3mm",
+    "In Stock": "1,504",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1309,
+    "Item Description": "Flat Bar 30x4mm",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1310,
+    "Item Description": "Flat Bar 30x5mm",
+    "In Stock": 862,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1311,
+    "Item Description": "Flat Bar 30x6mm",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1312,
+    "Item Description": "Flat Bar 30x8mm",
+    "In Stock": 49,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1313,
+    "Item Description": "Flat Bar 40x10mm",
+    "In Stock": 15,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1314,
+    "Item Description": "Flat Bar 40x3mm",
+    "In Stock": 693,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1315,
+    "Item Description": "Flat Bar 40x4mm",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1316,
+    "Item Description": "Flat Bar 40x5mm",
+    "In Stock": 602,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1317,
+    "Item Description": "Flat Bar 40x6mm",
+    "In Stock": 379,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1318,
+    "Item Description": "Flat Bar 40x8mm",
+    "In Stock": 27,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1319,
+    "Item Description": "Flat Bar 50x10mm",
+    "In Stock": 59,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1320,
+    "Item Description": "Flat Bar 50x3mm",
+    "In Stock": 6,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1321,
+    "Item Description": "Flat Bar 50x5mm",
+    "In Stock": "1,011",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1322,
+    "Item Description": "Flat Bar 50x6mm",
+    "In Stock": 468,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1323,
+    "Item Description": "Flat Bar 50x8mm",
+    "In Stock": 11,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1324,
+    "Item Description": "Flat Bar 60x5mm",
+    "In Stock": 197,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1325,
+    "Item Description": "Flat Bar 60x6mm",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1326,
+    "Item Description": "Flat Bar 65x10mm",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1327,
+    "Item Description": "Flat Bar 65x12mm",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1328,
+    "Item Description": "Flat Bar 65x6mm",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1329,
+    "Item Description": "Flat Bar 65x8mm",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1330,
+    "Item Description": "Flat Bar 80x10mm",
+    "In Stock": 58,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1331,
+    "Item Description": "Flat Bar 80x6mm",
+    "In Stock": 95,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1332,
+    "Item Description": "Flat Bar 80x8mm 6m",
+    "In Stock": 36,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1333,
+    "Item Description": "Galv Coil ISQ230 Z200 1225x0.5",
+    "In Stock": "27,054.18",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1334,
+    "Item Description": "Galv Coil ISQ230 Z200 1225x0.58",
+    "In Stock": "22,785.89",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1335,
+    "Item Description": "Galv Coil ISQ230 Z200 1225x0.76",
+    "In Stock": "23,998.65",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1336,
+    "Item Description": "Galv Coil ISQ230 Z200 1250x0.50",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1337,
+    "Item Description": "Galv Coil ISQ300 Z200 925x0.58",
+    "In Stock": "18,614.81",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1338,
+    "Item Description": "Galv Coil ISQ550 Z100 925x0.40",
+    "In Stock": "9,363.38",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1339,
+    "Item Description": "Galv Coil ISQ550 Z150 925x0.47",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1340,
+    "Item Description": "Galv Coil ISQ550 Z200 925x0.5",
+    "In Stock": "19,828.19",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1341,
+    "Item Description": "Galv Coil ISQ550 Z40 914x0.30",
+    "In Stock": "3,138.48",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1342,
+    "Item Description": "Galv Coil ISQ550 Z60 914x0.25",
+    "In Stock": 163.68,
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1343,
+    "Item Description": "Galv Coil LFQ Z100 1225x1.0",
+    "In Stock": "28,144.12",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1344,
+    "Item Description": "Galvanized 914x0.3mm",
+    "In Stock": "3,694.62",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1345,
+    "Item Description": "Galvanized 925x0.25mm",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1346,
+    "Item Description": "Galvanized 925x0.47mm",
+    "In Stock": 52.6,
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1347,
+    "Item Description": "Galvanized 925x0.4mm",
+    "In Stock": 641.55,
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1348,
+    "Item Description": "Galvanized 925x0.58mm",
+    "In Stock": 212.6,
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1349,
+    "Item Description": "Galvanized Welded Mesh 100x50x2.5mm (per metre) 1.8m",
+    "In Stock": 614,
+    "Item Group": "Wire",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1350,
+    "Item Description": "Galvanized Welded Mesh 25x25x1.6mm (per metre)",
+    "In Stock": 689.4,
+    "Item Group": "Wire",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1351,
+    "Item Description": "Galvanized Welded Mesh 50x50x2.0mm (per metre)",
+    "In Stock": "1,538",
+    "Item Group": "Wire",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1352,
+    "Item Description": "Galvanized Wire (kg) 1.6mm (3175m / 50kg)",
+    "In Stock": "20,451",
+    "Item Group": "Wire",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1353,
+    "Item Description": "Galvanized Wire (kg) 2.0mm (2015m / 50kg)",
+    "In Stock": "90,255.69",
+    "Item Group": "Wire",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1354,
+    "Item Description": "Galvanized Wire (kg) 2.5mm (1300m / 50kg)",
+    "In Stock": "31,855",
+    "Item Group": "Wire",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1355,
+    "Item Description": "Galvanized Wire (kg) 3.15mm (800m / 50kg)",
+    "In Stock": "16,976",
+    "Item Group": "Wire",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1356,
+    "Item Description": "Galvanized Wire (kg) 4.0mm (500m/ 50kg)",
+    "In Stock": "11,120.50",
+    "Item Group": "Wire",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1357,
+    "Item Description": "Gate Wheel 80mm Gate Wheet Set with Roller",
+    "In Stock": 66,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1358,
+    "Item Description": "Grating 2400x1200x25x4.5mm Galvanized Coated",
+    "In Stock": 50,
+    "Item Group": "Grating",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1359,
+    "Item Description": "Grating 2400x1200x25x4.5mm Mild Steel",
+    "In Stock": 130,
+    "Item Group": "Grating",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1360,
+    "Item Description": "Grating 2400x1200x30x4.5mm Galvanized Coated",
+    "In Stock": 37,
+    "Item Group": "Grating",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1361,
+    "Item Description": "Grating 2400x1200x30x4.5mm Mild Steel",
+    "In Stock": 5,
+    "Item Group": "Grating",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1362,
+    "Item Description": "Grating 2400x1200x40x4.5mm Mild Steel",
+    "In Stock": 6,
+    "Item Group": "Grating",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1363,
+    "Item Description": "Hard Drawn Wire 1.6mm Hard drawn Brickforce Wire",
+    "In Stock": "6,311.10",
+    "Item Group": "Wire",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1364,
+    "Item Description": "Hard Drawn Wire 3.0mm Hard Drawn Wire straightened 1670mm",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1365,
+    "Item Description": "Hard Drawn Wire 4.0mm Hard Drawn Wire straightened 1340mm",
+    "In Stock": "15,393",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1366,
+    "Item Description": "Hard Drawn Wire 5.0mm Hard Drawn Wire straightened 3500mm",
+    "In Stock": "3,760",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1367,
+    "Item Description": "Hex Bar Free Cutting 14mm",
+    "In Stock": 259.03,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1368,
+    "Item Description": "Hex Bar Free Cutting 17mm",
+    "In Stock": 552.43,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1369,
+    "Item Description": "Hex Bar Free Cutting 19mm",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1370,
+    "Item Description": "Hex Bar Free Cutting 22mm",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1371,
+    "Item Description": "Hex Bar Free Cutting 24mm",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1372,
+    "Item Description": "Hex Bar Free Cutting 27mm",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1373,
+    "Item Description": "Hex Bar Free Cutting 30mm",
+    "In Stock": 35.36,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1374,
+    "Item Description": "Hex Bar Free Cutting 32mm",
+    "In Stock": 16.98,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1375,
+    "Item Description": "Hex Bar Free Cutting 33mm",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1376,
+    "Item Description": "Hex Bar Free Cutting 35mm",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1377,
+    "Item Description": "Hex Bar Free Cutting 36mm",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1378,
+    "Item Description": "Hex Bar Free Cutting 38mm",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1379,
+    "Item Description": "Hex Bar Free Cutting 41mm",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1380,
+    "Item Description": "Hex Bar Free Cutting 45mm",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1381,
+    "Item Description": "Hex Bar Free Cutting 46mm",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1382,
+    "Item Description": "Hex Bar Free Cutting 50mm",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1383,
+    "Item Description": "Hex Bar Free Cutting 55mm",
+    "In Stock": 8.335,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1384,
+    "Item Description": "High Strain Wire 1.25mm",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1385,
+    "Item Description": "High Strain Wire 2.24mm (1650m / 50kg)",
+    "In Stock": "2,800.50",
+    "Item Group": "Wire",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1386,
+    "Item Description": "High Strain Wire 2.50mm",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1387,
+    "Item Description": "High Strain Wire 2mm (2015m / 50kg)",
+    "In Stock": 0.5,
+    "Item Group": "Wire",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1388,
+    "Item Description": "High Strain Wire 3.89mm",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1389,
+    "Item Description": "HR Coil CQ 1225x1.5",
+    "In Stock": "9,147.07",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1390,
+    "Item Description": "HR Coil CQ 1225x1.75",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1391,
+    "Item Description": "HR Coil CQ 1225x2.8",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1392,
+    "Item Description": "HR Coil CQ 1225x2.9",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1393,
+    "Item Description": "Hyundai Welding Rods 2.50mm 12gauge",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1394,
+    "Item Description": "Hyundai Welding Rods 3.15mm  10gauge",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1395,
+    "Item Description": "Pinnacle Welding Rods (Super 7) 4.0mm 1kg",
+    "In Stock": 320,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1396,
+    "Item Description": "Insulation Alucushion  40x1.2 MTR 50m2  Import",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1397,
+    "Item Description": "Insulation Alucushion  40x1.2 MTR 50m2  Local",
+    "In Stock": 117,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1398,
+    "Item Description": "Insulation1.6mm white PVC coated wire  25kg",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1399,
+    "Item Description": "Lipped Channel CQ 100x50x20x2.0mm 12m",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1400,
+    "Item Description": "Lipped Channel CQ 100x50x20x2.0mm 6m",
+    "In Stock": 306,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1401,
+    "Item Description": "Lipped Channel CQ 100x50x20x2.0mm MTR",
+    "In Stock": 342.5,
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1402,
+    "Item Description": "Lipped Channel CQ 125x50x20x2.0mm 12m",
+    "In Stock": 3,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1403,
+    "Item Description": "Lipped Channel CQ 125x50x20x2.0mm 6m",
+    "In Stock": 708,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1404,
+    "Item Description": "Lipped Channel CQ 125x50x20x2.0mm MTR",
+    "In Stock": 3.66,
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1405,
+    "Item Description": "Lipped Channel CQ 125x64x20x2.0mm 12m",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1406,
+    "Item Description": "Lipped Channel CQ 125x64x20x2.0mm 6m",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1407,
+    "Item Description": "Lipped Channel CQ 150x50x20x2.0mm 12m",
+    "In Stock": 37,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1408,
+    "Item Description": "Lipped Channel CQ 150x50x20x2.0mm 6m",
+    "In Stock": 112,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1409,
+    "Item Description": "Lipped Channel CQ 150x50x20x2.0mm MTR",
+    "In Stock": 213.783,
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1410,
+    "Item Description": "Lipped Channel CQ 150x50x20x2.5mm 12m",
+    "In Stock": 1,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1411,
+    "Item Description": "Lipped Channel CQ 150x50x20x2.5mm 6m",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1412,
+    "Item Description": "Lipped Channel CQ 175x50x20x2.5mm 6m",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1413,
+    "Item Description": "Lipped Channel CQ 200x75x20x2.5mm 12m",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1414,
+    "Item Description": "Lipped Channel CQ 75x50x20x2.0mm 6m",
+    "In Stock": 127,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1415,
+    "Item Description": "Lipped Channel CQ 75x50x20x2.0mm MTR",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1416,
+    "Item Description": "Lipped Channel CQ 75x50x20x2mm 12m",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1417,
+    "Item Description": "Lipped Channel ECO 100x50x20x1.5mm 12m",
+    "In Stock": 10,
+    "Item Group": "Channel",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1418,
+    "Item Description": "Lipped Channel ECO 100x50x20x1.5mm 6m",
+    "In Stock": 321,
+    "Item Group": "Channel",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1419,
+    "Item Description": "Lipped Channel ECO 75x50x20x1.5mm 12m",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1420,
+    "Item Description": "Lipped Channel ECO 75x50x20x1.5mm 6m",
+    "In Stock": 665,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1421,
+    "Item Description": "Lipped Channel Galv 100x50x20x2.0mm 12m",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1422,
+    "Item Description": "Lipped Channel Galv 100x50x20x2.0mm 6m",
+    "In Stock": 126,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1423,
+    "Item Description": "Lipped Channel Galv 100x50x20x2.0mm MTR",
+    "In Stock": 114.073,
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1424,
+    "Item Description": "Lipped Channel Galv 125x50x20x2.0mm 6m",
+    "In Stock": 94,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1425,
+    "Item Description": "Lipped Channel Galv 125x50x20x2.0mm MTR",
+    "In Stock": 321.349,
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1426,
+    "Item Description": "Lipped Channel CQ 150x65x20x2.5mm 13m",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1427,
+    "Item Description": "Lipped Channel Galv 150x50x20x2.0mm 12m",
+    "In Stock": 15,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1428,
+    "Item Description": "Lipped Channel Galv 150x50x20x2.0mm 6m",
+    "In Stock": 2,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1429,
+    "Item Description": "Lipped Channel Galv 150x50x20x2.0mm MTR",
+    "In Stock": 30.31,
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1430,
+    "Item Description": "Lipped Channel Galv 200x50x20x2.0mm 6m",
+    "In Stock": 44,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1431,
+    "Item Description": "Lipped Channel Galv 75x50x20x1.5mm MTR",
+    "In Stock": 0.654,
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1432,
+    "Item Description": "Lipped Channel Galv 75x50x20x2.0mm 6m",
+    "In Stock": 73.3,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1433,
+    "Item Description": "Lipped Channel Galv 75x50x20x2.0mm MTR",
+    "In Stock": 1.036,
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1434,
+    "Item Description": "Lipped Channel Galv 75x50x20x2.5mm 6m",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1435,
+    "Item Description": "Mild Steel Plate 2500x1145x6mm",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1436,
+    "Item Description": "Mild Steel Plate 2500x1200x10mm",
+    "In Stock": 117,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1437,
+    "Item Description": "Mild Steel Plate 2500x1200x12mm",
+    "In Stock": 111,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1438,
+    "Item Description": "Mild Steel Plate 2500x1200x16mm",
+    "In Stock": 38,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1439,
+    "Item Description": "Mild Steel Plate 2500x1200x20mm",
+    "In Stock": 3,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1440,
+    "Item Description": "Mild Steel Plate 2500x1200x25mm",
+    "In Stock": 12,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1441,
+    "Item Description": "Mild Steel Plate 2500x1200x30mm",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1442,
+    "Item Description": "Mild Steel Plate 2500x1200x4.5mm",
+    "In Stock": 452,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1443,
+    "Item Description": "Mild Steel Plate 2500x1200x40mm S355JR",
+    "In Stock": 1,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1444,
+    "Item Description": "Mild Steel Plate 2500x1200x5mm",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1445,
+    "Item Description": "Mild Steel Plate 2500x1200x50mm",
+    "In Stock": 1,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1446,
+    "Item Description": "Mild Steel Plate 2500x1200x6.0mm",
+    "In Stock": 61,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1447,
+    "Item Description": "Mild Steel Plate 2500x1200x8.0mm",
+    "In Stock": 27,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1448,
+    "Item Description": "Nails Clout Nails 2.0mmx32mm (1x1kg)",
+    "In Stock": 245,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1449,
+    "Item Description": "Nails Clout Nails 2.0mmx40mm (1x1kg)",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1450,
+    "Item Description": "Nails Fencing Staples 25mm (1x1kg)",
+    "In Stock": 409,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1451,
+    "Item Description": "Nails Fencing Staples 32mm (1x1kg)",
+    "In Stock": 399,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1452,
+    "Item Description": "Nails Fencing Staples 40mm (1x1kg)",
+    "In Stock": "1,930",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1453,
+    "Item Description": "Nails Wire Nails (25mm & 40mm)",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1454,
+    "Item Description": "Nails Wire Nails 2.0mmx40mm 1.5\" (1x1kg)",
+    "In Stock": 155,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1455,
+    "Item Description": "Nails Wire Nails 2.65mmx50mm 2\" (1x1kg)",
+    "In Stock": 223,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1456,
+    "Item Description": "Nails Wire Nails 2.65mmx63mm 2.5\" (1x1kg)",
+    "In Stock": 212,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1457,
+    "Item Description": "Nails Wire Nails 3.5mmx75mm 3\" (1x1kg)",
+    "In Stock": 145,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1458,
+    "Item Description": "Nails Wire Nails 4.0mmx100mm 4\" (1x1kg)",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1459,
+    "Item Description": "Nails Wire Nails 5.0mmx125mm 5\" (1x1kg)",
+    "In Stock": 57,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1460,
+    "Item Description": "Nails Wire Nails 5.0mmx150mm 6\" (1x1kg)",
+    "In Stock": 309,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1461,
+    "Item Description": "Optima Coil 925x0.25 (ISQ550 AZ70) Charcoal Grey",
+    "In Stock": "4,232.39",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1462,
+    "Item Description": "Oxide Primer 1 Litre Aluminium Silver",
+    "In Stock": 29,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1463,
+    "Item Description": "Oxide Primer 1 Litre Black",
+    "In Stock": 15,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1464,
+    "Item Description": "Oxide Primer 1 Litre Grey",
+    "In Stock": 12,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1465,
+    "Item Description": "Oxide Primer 1 Litre Red",
+    "In Stock": 27,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1466,
+    "Item Description": "Oxide Primer 1 Litre White",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1467,
+    "Item Description": "Oxide Primer 5 Litre Grey",
+    "In Stock": 44,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1468,
+    "Item Description": "Oxide Primer 5 Litres Aluminium Silver",
+    "In Stock": 38,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1469,
+    "Item Description": "Oxide Primer 5 Litres Black",
+    "In Stock": 15,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1470,
+    "Item Description": "Oxide Primer 5 Litres Red",
+    "In Stock": 68,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1471,
+    "Item Description": "Oxide Primer 5 Litres White",
+    "In Stock": 9,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1472,
+    "Item Description": "Pegatec Cutting Disc 230x1.9x22.2mm Slimline",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1473,
+    "Item Description": "Pegatec Cutting Disc 230x3.0x22.2mm Standard",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1474,
+    "Item Description": "Pferd Cutting Disc 115x1.0x22.23 4.5\" Slimline",
+    "In Stock": "6,563",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1475,
+    "Item Description": "Pferd Cutting Disc SG Steel EHT 115x2.4x22.23 Standard",
+    "In Stock": "2,607",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1476,
+    "Item Description": "Pferd Cutting Disc Steel EH 230x3.0x22.23 9",
+    "In Stock": "4,305",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1477,
+    "Item Description": "Pferd Cutting Disc KSG 300x2.8x25.4mm 80T",
+    "In Stock": 148,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1478,
+    "Item Description": "Pferd Cutting Disc 300x3.6x25.4",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1479,
+    "Item Description": "Pferd Cutting Disc KSG 350x2.8x25.4mm 80T",
+    "In Stock": 590,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1480,
+    "Item Description": "Pferd Cutting Disc 400x25.4x4mm 16",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1481,
+    "Item Description": "Pferd Cutting Disc 400x3.2x25.4",
+    "In Stock": 757,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1482,
+    "Item Description": "Pferd Grinding Disc PSF Steel 115x7.0x22.23 4.5",
+    "In Stock": 62,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1483,
+    "Item Description": "Pferd Grinding Disc Steel 230x7.0x22.23 9",
+    "In Stock": "3,234",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1484,
+    "Item Description": "Pinnacle Welding Rods (Super 7) 2.5mm 1kg",
+    "In Stock": "2,306",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1485,
+    "Item Description": "Pinnacle Welding Rods (Super 7) 3.2mm 1kg",
+    "In Stock": 716,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1486,
+    "Item Description": "Prepainted 914x0.25mm Charcoal Grey",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1487,
+    "Item Description": "Prepainted 914x0.25mm Charcoal Grey",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1488,
+    "Item Description": "Prepainted Coil 925x0.4 Charcoal Grey",
+    "In Stock": "6,724.50",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1489,
+    "Item Description": "Prepainted Coil 925x0.58 (ISQ550 Z200) Charcoal Grey",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1490,
+    "Item Description": "Prepainted NOT Chromadek 0.4mm Q-TILE",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1491,
+    "Item Description": "Prepainted NOT Chromadek 0.4mm Q-TILE Ridge",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1492,
+    "Item Description": "Prepainted NOT Chromadek 0.4mm Roll Top",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1493,
+    "Item Description": "Prepainted NOT Chromadek 0.4mm Valley Gutter",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1494,
+    "Item Description": "Prepainted NOT Chromadek 914x0.21mm",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1495,
+    "Item Description": "Prepainted NOT Chromadek 914x0.21mm",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1496,
+    "Item Description": "Prepainted NOT Chromadek 914x0.47mm",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1497,
+    "Item Description": "Prepainted NOT Chromadek 914x0.47mm",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1498,
+    "Item Description": "Prepainted NOT Chromadek 914x0.4mm",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1499,
+    "Item Description": "Prepainted NOT Chromadek 914x0.58mm",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1500,
+    "Item Description": "Prepainted NOT Chromadek 914x0.58mm",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1501,
+    "Item Description": "Prepainted NOT Chromadek 925x0.3mm",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1502,
+    "Item Description": "Prepainted NOT Chromadek Flashing",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1503,
+    "Item Description": "Razor Wire (Rolls) Concertina 8MTRs",
+    "In Stock": 673,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1504,
+    "Item Description": "Razor Wire (Rolls) Flat Wrap 15MTRs",
+    "In Stock": 318,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1505,
+    "Item Description": "Rectangular Tube 100x50x1.5mm",
+    "In Stock": 86,
+    "Item Group": "Tube",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1506,
+    "Item Description": "Rectangular Tube 100x50x2.0mm",
+    "In Stock": 922,
+    "Item Group": "Tube",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1507,
+    "Item Description": "Rectangular Tube 100x50x2.5mm",
+    "In Stock": 39,
+    "Item Group": "Tube",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1508,
+    "Item Description": "Rectangular Tube 100x50x3.0mm",
+    "In Stock": 96,
+    "Item Group": "Tube",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1509,
+    "Item Description": "Rectangular Tube 30x20x1.0mm",
+    "In Stock": "",
+    "Item Group": "Tube",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1510,
+    "Item Description": "Rectangular Tube 40x20x1.5mm",
+    "In Stock": 433,
+    "Item Group": "Tube",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1511,
+    "Item Description": "Rectangular Tube 50x25x1.5mm",
+    "In Stock": 191,
+    "Item Group": "Tube",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1512,
+    "Item Description": "Rectangular Tube 60x30x3.0mm",
+    "In Stock": "",
+    "Item Group": "Tube",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1513,
+    "Item Description": "Rectangular Tube 60x40x1.5mm",
+    "In Stock": "",
+    "Item Group": "Tube",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1514,
+    "Item Description": "Rectangular Tube 76x38x1.5mm",
+    "In Stock": 256,
+    "Item Group": "Tube",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1515,
+    "Item Description": "Rectangular Tube 80x40x2.0mm",
+    "In Stock": 321,
+    "Item Group": "Tube",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1516,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 10mm 12m",
+    "In Stock": "7,862",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1517,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 10mm 6m",
+    "In Stock": "11,393",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1518,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 10mm TON",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ton"
+  },
+  {
+    "Item No.": 1519,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 12mm 12m",
+    "In Stock": "10,118",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1520,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 12mm 6m",
+    "In Stock": "8,875",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1521,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 12mm TON",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ton"
+  },
+  {
+    "Item No.": 1522,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 16mm 12m",
+    "In Stock": "5,309.50",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1523,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 16mm 6m",
+    "In Stock": "3,819",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1524,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 16mm TON",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ton"
+  },
+  {
+    "Item No.": 1525,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 20mm 12m",
+    "In Stock": 869,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1526,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 20mm 6m",
+    "In Stock": 620,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1527,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 20mm TON",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ton"
+  },
+  {
+    "Item No.": 1528,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 25mm 12m",
+    "In Stock": "1,516",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1529,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 25mm 6m",
+    "In Stock": 355,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1530,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 25mm TON",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ton"
+  },
+  {
+    "Item No.": 1531,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 32mm 12m",
+    "In Stock": 179,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1532,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 32mm 6m",
+    "In Stock": 13,
+    "Item Group": "Bars",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1533,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 32mm TON",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ton"
+  },
+  {
+    "Item No.": 1534,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 5mm 6m",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1535,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 6mm 12m",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1536,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 6mm 6m",
+    "In Stock": 925,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1537,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 6mm TON",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1538,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 8mm 12m",
+    "In Stock": 549.5,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1539,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 8mm 6m",
+    "In Stock": "2,689",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1540,
+    "Item Description": "Reinforcing Bar BS4449 450MPA 8mm TON",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ton"
+  },
+  {
+    "Item No.": 1541,
+    "Item Description": "Rhino Environtuff 201 FR Alucushion Local",
+    "In Stock": 4,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1542,
+    "Item Description": "Rhino Environtuff 202 ECO Alucushion Local",
+    "In Stock": 4,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1543,
+    "Item Description": "Rhino Environtuff 202 FR Alucushion Local",
+    "In Stock": 2,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1544,
+    "Item Description": "Rhino Environtuff 203 ECO Alucushion Local",
+    "In Stock": 5,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1545,
+    "Item Description": "Rhino Environtuff Tape 48mm x 30m",
+    "In Stock": 10,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1546,
+    "Item Description": "Ridges 0.47 Chromadek Q-Tile Ridge (2400mm)",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1547,
+    "Item Description": "Ridges 0.4mm Chromadek Cranked ridge (800mm)",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1548,
+    "Item Description": "Ridges 0.4mm Chromadek Roll-Top Ridge/Valley Gutter(2400mm)",
+    "In Stock": 38,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1549,
+    "Item Description": "Ridges 0.4mm Galvanized Cranked ridge (800mm)",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1550,
+    "Item Description": "Ridges 0.4mm Galvanized Roll-Top Ridge/Valley Gutter (2400mm)",
+    "In Stock": 12,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1551,
+    "Item Description": "Roofing Colorplus 925x0.47mm  Thunderstorm",
+    "In Stock": 12.86,
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1552,
+    "Item Description": "Roofing Corr Prepainted Sheet 3.6m 0.40mm Charcoal Grey",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1553,
+    "Item Description": "Roofing IBR Galvanized Sheet 3.6m 0.25mm",
+    "In Stock": 836,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1554,
+    "Item Description": "Roofing IBR Galvanized Sheet 3.6m 0.47mm",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1555,
+    "Item Description": "Roofing IBR Optima sheet 3.6m 0.25mm Charcoal Grey",
+    "In Stock": "2,055",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1556,
+    "Item Description": "Roofing IBR Prepainted sheet 3.6m 0.4mm Charcoal Grey",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1557,
+    "Item Description": "Roofing Screws Safetop Nail 75mm with cap & washer",
+    "In Stock": 589,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1558,
+    "Item Description": "Roofing Screws Self Driller 12x25mm",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1559,
+    "Item Description": "Roofing Screws Self Driller 75mm",
+    "In Stock": 195,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1560,
+    "Item Description": "Round Bar Mild Steel 10mm",
+    "In Stock": "3,160",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1561,
+    "Item Description": "Round Bar Mild Steel 10mm TON",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ton"
+  },
+  {
+    "Item No.": 1562,
+    "Item Description": "Round Bar Mild Steel 12mm",
+    "In Stock": 804,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1563,
+    "Item Description": "Round Bar Mild Steel 12mm TON",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ton"
+  },
+  {
+    "Item No.": 1564,
+    "Item Description": "Round Bar Mild Steel 16mm",
+    "In Stock": 595,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1565,
+    "Item Description": "Round Bar Mild Steel 16mm TON",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ton"
+  },
+  {
+    "Item No.": 1566,
+    "Item Description": "Round Bar Mild Steel 20mm",
+    "In Stock": 29,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1567,
+    "Item Description": "Round Bar Mild Steel 25mm",
+    "In Stock": 94,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1568,
+    "Item Description": "Round Bar Mild Steel 32mm",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1569,
+    "Item Description": "Round Bar Mild Steel 40mm",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1570,
+    "Item Description": "Round Bar Mild Steel 6mm",
+    "In Stock": "2,313",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1571,
+    "Item Description": "Round Bar Mild Steel 8mm",
+    "In Stock": "4,102",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1572,
+    "Item Description": "Round Tube 101x2.0mm",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1573,
+    "Item Description": "Round Tube 114x2.0mm",
+    "In Stock": 27,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1574,
+    "Item Description": "Round Tube 127x2.0mm",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1575,
+    "Item Description": "Round Tube 16x1.5mm",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1576,
+    "Item Description": "Round Tube 20x1.5mm",
+    "In Stock": "3,239",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1577,
+    "Item Description": "Round Tube 20x2.0mm",
+    "In Stock": 186,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1578,
+    "Item Description": "Round Tube 25x1.5mm",
+    "In Stock": "3,739",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1579,
+    "Item Description": "Round Tube 25x2.0mm",
+    "In Stock": "1,226",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1580,
+    "Item Description": "Round Tube 32x1.5mm",
+    "In Stock": 395,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1581,
+    "Item Description": "Round Tube 32x2.0mm",
+    "In Stock": 845,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1582,
+    "Item Description": "Round Tube 38x1.5mm",
+    "In Stock": 421.57,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1583,
+    "Item Description": "Round Tube 38x1.5mm 7.2m",
+    "In Stock": 6,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1584,
+    "Item Description": "Round Tube 38x2.0mm",
+    "In Stock": "1,648",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1585,
+    "Item Description": "Round Tube 38x2.0mm 7.2m",
+    "In Stock": 438,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1586,
+    "Item Description": "Round Tube 42x1.5mm",
+    "In Stock": 351,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1587,
+    "Item Description": "Round Tube 42x2.0mm",
+    "In Stock": 97,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1588,
+    "Item Description": "Round Tube 48x1.2mm",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1589,
+    "Item Description": "Round Tube 48x1.5mm",
+    "In Stock": 309,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1590,
+    "Item Description": "Round Tube 48x3.0mm",
+    "In Stock": 277,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1591,
+    "Item Description": "Round Tube 50x1.5mm",
+    "In Stock": 732,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1592,
+    "Item Description": "Round Tube 50x2.0mm",
+    "In Stock": 685,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1593,
+    "Item Description": "Round Tube 50x3.0mm",
+    "In Stock": 52,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1594,
+    "Item Description": "Round Tube 60x1.5mm",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1595,
+    "Item Description": "Round Tube 60x2.0mm",
+    "In Stock": 251,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1596,
+    "Item Description": "Round Tube 60x3.0mm",
+    "In Stock": 40,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1597,
+    "Item Description": "Round Tube 63x1.5mm",
+    "In Stock": 15,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1598,
+    "Item Description": "Round Tube 63x2.0mm",
+    "In Stock": 115,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1599,
+    "Item Description": "Round Tube 76x1.5mm",
+    "In Stock": "1,449",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1600,
+    "Item Description": "Round Tube 76x1.5mm 7.2m",
+    "In Stock": 1,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1601,
+    "Item Description": "Round Tube 76x2.0mm",
+    "In Stock": 575,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1602,
+    "Item Description": "Round Tube 97x1.5mm",
+    "In Stock": 20,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1603,
+    "Item Description": "Round Tube 97x2.0mm",
+    "In Stock": 203,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1604,
+    "Item Description": "RT/VG 0.47mm Chromadek  Roll-Top Ridge/Valley Gutter (2400mm)",
+    "In Stock": 40,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1605,
+    "Item Description": "RT/VG 0.47mm Chromadek Side/Top Flashing (2400mm)",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1606,
+    "Item Description": "RT/VG 0.47mm Galvanized  Roll-Top Ridge/Valley Gutter (2400mm)",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1607,
+    "Item Description": "RT/VG 0.47mm Galvanized Side/Top Flashing (2400mm)",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1608,
+    "Item Description": "RT/VG 0.58mm Chromadek  Roll-Top Ridge/Valley Gutter (2400mm)",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1609,
+    "Item Description": "RT/VG 0.58mm Chromadek Side/Top Flashing (2400mm)",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1610,
+    "Item Description": "RT/VG 0.58mm Galvanized  Roll-Top Ridge/Valley Gutter (2400mm)",
+    "In Stock": 7,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1611,
+    "Item Description": "RT/VG 0.58mm Galvanized Side/Top Flashing (2400mm)",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1612,
+    "Item Description": "Sheet CR 1200x400x0.6mm",
+    "In Stock": "4,506",
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1613,
+    "Item Description": "Sheet CR 2450x1200x0.5mm",
+    "In Stock": "1,529",
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1614,
+    "Item Description": "Sheet CR 2450x1200x0.8mm",
+    "In Stock": 959,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1615,
+    "Item Description": "Sheet CR 2450x1200x1.0mm",
+    "In Stock": 93,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1616,
+    "Item Description": "Sheet CR 2450x1225x0.4mm",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1617,
+    "Item Description": "Sheet CR 2450x1225x0.6mm",
+    "In Stock": "1,390",
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1618,
+    "Item Description": "Sheet CR 2450x1225x0.7mm",
+    "In Stock": 466,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1619,
+    "Item Description": "Sheet CR 2450x1225x0.9mm",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1620,
+    "Item Description": "Sheet CR 2450x1225x1.0mm",
+    "In Stock": 668,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1621,
+    "Item Description": "Sheet CR 2450x1225x1.2mm",
+    "In Stock": 673,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1622,
+    "Item Description": "Sheet Galvanized 2450x1225x0.3mm",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1623,
+    "Item Description": "Sheet Galvanized 2450x1225x0.58mm",
+    "In Stock": 468,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1624,
+    "Item Description": "Sheet Galvanized 2450x1225x0.5mm",
+    "In Stock": 294,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1625,
+    "Item Description": "Sheet Galvanized 2450x1225x0.8mm",
+    "In Stock": 708,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1626,
+    "Item Description": "Sheet Galvanized 2450x1225x1.0mm",
+    "In Stock": 150,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1627,
+    "Item Description": "Sheet Galvanized 2450x1225x1.2mm",
+    "In Stock": 52,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1628,
+    "Item Description": "Sheet Galvanized 2450x1225x2.0mm",
+    "In Stock": 7,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1629,
+    "Item Description": "Sheet Galvanized 2450x925x0.4mm",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1630,
+    "Item Description": "Sheet Galvanized 2450x925x0.58mm",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1631,
+    "Item Description": "Sheet Galvanized 2450x925x0.5mm",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1632,
+    "Item Description": "Sheet HR 2450x1225x1.6mm",
+    "In Stock": "1,083",
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1633,
+    "Item Description": "Sheet HR 2450x1225x2.0mm",
+    "In Stock": 455,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1634,
+    "Item Description": "Sheet HR 2450x1225x2.5mm",
+    "In Stock": 596,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1635,
+    "Item Description": "Sheet HR 2450x1225x3.0mm",
+    "In Stock": 829,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1636,
+    "Item Description": "Sheet HR 2450X1225X4.0mm",
+    "In Stock": 107,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1637,
+    "Item Description": "Sheet HR 3000X1500X3.0mm",
+    "In Stock": 33,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1638,
+    "Item Description": "Slit Coil Galvanized (ISQ230 Z200) 30x0.76mm",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1639,
+    "Item Description": "Slit Coil Galvanized (ISQ230 Z200) 30x0.8mm",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1640,
+    "Item Description": "Slit Coil Galvanized 195x1.6mm (75x50)",
+    "In Stock": "17,804.31",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1641,
+    "Item Description": "Slit Coil Galvanized 195x2.0mm (75x50)",
+    "In Stock": "8,431.87",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1642,
+    "Item Description": "Slit Coil Galvanized 220x2.0mm (100x50)",
+    "In Stock": "35,803.05",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1643,
+    "Item Description": "Slit Coil Galvanized 245x2.0mm (125x50)",
+    "In Stock": "11,664.96",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1644,
+    "Item Description": "Slit Coil Galvanized 270x2.0mm (150x50)",
+    "In Stock": "89,831.37",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1645,
+    "Item Description": "Slit Coil HR 195x1.40mm (75x50)",
+    "In Stock": "10,718.12",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1646,
+    "Item Description": "Slit Coil HR 195x2.0mm (75x50)",
+    "In Stock": 106.054,
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1647,
+    "Item Description": "Slit Coil HR 220x1.4mm (100x50)",
+    "In Stock": "11,305.51",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1648,
+    "Item Description": "Slit Coil HR 220x2.0mm (100x50)",
+    "In Stock": "3,239.24",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1649,
+    "Item Description": "Slit Coil HR 245x2.0mm (125x50)",
+    "In Stock": 974.51,
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1650,
+    "Item Description": "Slit Coil HR 270x2.0mm (150x50)",
+    "In Stock": 712.732,
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1651,
+    "Item Description": "Slit Coil Prepainted F White (ISQ230 AZ50) 381x0.50",
+    "In Stock": "5,337",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1652,
+    "Item Description": "Square Bar 10x10mm",
+    "In Stock": 382,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1653,
+    "Item Description": "Square Bar 12x12mm",
+    "In Stock": 269,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1654,
+    "Item Description": "Square Bar 16x16mm",
+    "In Stock": 2,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1655,
+    "Item Description": "Square Bar 20x20mm",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1656,
+    "Item Description": "Square Bar 25x25mm",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1657,
+    "Item Description": "Square Bar 30x30mm",
+    "In Stock": 15,
+    "Item Group": "Bars",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1658,
+    "Item Description": "Square Tube 100x100x2.0mm",
+    "In Stock": 18,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1659,
+    "Item Description": "Square Tube 16x16x1.5mm",
+    "In Stock": "1,099",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1660,
+    "Item Description": "Square Tube 20x20x1.5mm",
+    "In Stock": "2,056",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1661,
+    "Item Description": "Square Tube 20x20x2.0mm",
+    "In Stock": 934,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1662,
+    "Item Description": "Square Tube 25x25x1.5mm",
+    "In Stock": "2,927",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1663,
+    "Item Description": "Square Tube 25x25x2.0mm",
+    "In Stock": "1,039",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1664,
+    "Item Description": "Square Tube 30x30x1.5mm",
+    "In Stock": "2,104",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1665,
+    "Item Description": "Square Tube 30x30x2.0mm",
+    "In Stock": "1,273",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1666,
+    "Item Description": "Square Tube 30x30x3.0mm",
+    "In Stock": 169,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1667,
+    "Item Description": "Square Tube 40x40x1.5mm",
+    "In Stock": 309,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1668,
+    "Item Description": "Square Tube 40x40x2.0mm",
+    "In Stock": "1,184",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1669,
+    "Item Description": "Square Tube 40x40x3.0mm",
+    "In Stock": 6,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1670,
+    "Item Description": "Square Tube 50x50x1.5mm",
+    "In Stock": 629,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1671,
+    "Item Description": "Square Tube 50x50x2.0mm",
+    "In Stock": 702,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1672,
+    "Item Description": "Square Tube 50x50x3.0mm",
+    "In Stock": 100,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1673,
+    "Item Description": "Square Tube 60x60x1.5mm",
+    "In Stock": 89,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1674,
+    "Item Description": "Square Tube 60x60x2.0mm",
+    "In Stock": 28,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1675,
+    "Item Description": "Square Tube 60x60x3.0mm",
+    "In Stock": 60,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1676,
+    "Item Description": "Square Tube 76x76x1.5mm",
+    "In Stock": 49,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1677,
+    "Item Description": "Square Tube 76x76x2.0mm",
+    "In Stock": 211,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1678,
+    "Item Description": "ST/TS 0.8mm Translucent / Polycarbonate 3.6m",
+    "In Stock": 33,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1679,
+    "Item Description": "ST/TS 0.8mm Translucent / Polycarbonate  7.2m",
+    "In Stock": 12,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1680,
+    "Item Description": "ST/TS Safe Top Nutt Setter",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1681,
+    "Item Description": "Stainless Steel Grade 304 2500x1250x0.7mm",
+    "In Stock": 5,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1682,
+    "Item Description": "Stainless Steel Grade 3CR12 2500x1250x1.6mm",
+    "In Stock": 14,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1683,
+    "Item Description": "Stainless Steel Grade 3CR12 2500x1250x2.0mm",
+    "In Stock": 29,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1684,
+    "Item Description": "Stainless Steel Grade 3CR12 2500x1250x3.0mm",
+    "In Stock": 4,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1685,
+    "Item Description": "Stainless Steel Grade 3CR12 2500x1250x4.5mm",
+    "In Stock": 26,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1686,
+    "Item Description": "Stainless Steel Grade 3CR12 2500x1250x6.0mm",
+    "In Stock": 16,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1687,
+    "Item Description": "Stainless Steel Grade 430 2500x1250x0.5mm",
+    "In Stock": 109,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1688,
+    "Item Description": "Stainless Steel Grade 430 2500x1250x0.6mm",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1689,
+    "Item Description": "Stainless Steel Grade 430 2500x1250x0.7mm",
+    "In Stock": 70,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1690,
+    "Item Description": "Superflex Cutting Disc 115x1.0x22.22 Slimline",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1691,
+    "Item Description": "Superflex Cutting Disc 230x1.9x22.23 Slimline 9",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1692,
+    "Item Description": "Superflex Cutting Disc 230x3.0x22.23 Standard 9",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1693,
+    "Item Description": "Superflex Cutting Disc 300x2.8x25.4",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1694,
+    "Item Description": "Superflex Cutting Disc 350x3.0x25.4",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1695,
+    "Item Description": "Superflex Cutting Disc 400x3.2x25.4 16",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1696,
+    "Item Description": "Superflex Grinding Disc 115x6.5x22.23 4.5",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1697,
+    "Item Description": "Superflex Grinding Disc 180x6.4x22.23 7",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1698,
+    "Item Description": "Superflex Grinding Disc 230x6.8x22.33 9",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1699,
+    "Item Description": "Thinners 5 Litres",
+    "In Stock": 80,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1700,
+    "Item Description": "Thinners 750ml",
+    "In Stock": 39,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1701,
+    "Item Description": "Turpentine 5 Litres",
+    "In Stock": 19,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1702,
+    "Item Description": "Turpentine 750ml",
+    "In Stock": 52,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1703,
+    "Item Description": "Universal Beam 203x133x25.1kg 13m",
+    "In Stock": 172,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1704,
+    "Item Description": "Universal Beam 203x133x30.0kg 13m",
+    "In Stock": 25,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1705,
+    "Item Description": "Universal Beam 254x146x31.1kg 13m",
+    "In Stock": 150,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1706,
+    "Item Description": "Universal Column 203x203x60kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1707,
+    "Item Description": "Universal Beam 305x102x28.2kg 13m",
+    "In Stock": 37,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1708,
+    "Item Description": "Universal Beam 305x165x46.1kg 13m",
+    "In Stock": 15,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1709,
+    "Item Description": "Universal Beam 356x171x45kg 13m",
+    "In Stock": 21,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1710,
+    "Item Description": "Universal Beam 406x140x39kg 13m",
+    "In Stock": 2,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1711,
+    "Item Description": "Vitemax Welding Rods 2.50mm 12gauge",
+    "In Stock": 372,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1712,
+    "Item Description": "Vitemax Welding Rods 3.15mm 10gauge",
+    "In Stock": 466,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1713,
+    "Item Description": "Vitemax Welding Rods 4.00mm 8gauge",
+    "In Stock": 694,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1714,
+    "Item Description": "VRN 500 Plate 2500x1200x10mm",
+    "In Stock": 11,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1715,
+    "Item Description": "VRN 500 Plate 2500x1200x12mm",
+    "In Stock": 44,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1716,
+    "Item Description": "VRN 500 Plate 2500x1200x16mm",
+    "In Stock": 2,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1717,
+    "Item Description": "VRN 500 Plate 2500x1200x20mm",
+    "In Stock": 5,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1718,
+    "Item Description": "VRN 500 Plate 2500x1200x25mm",
+    "In Stock": 8,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1719,
+    "Item Description": "VRN 500 Plate 2500x1200x30mm",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1720,
+    "Item Description": "VRN 500 Plate 2500x1200x40mm",
+    "In Stock": 2,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1721,
+    "Item Description": "VRN 500 Plate 2500x1200x50mm",
+    "In Stock": 2,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1722,
+    "Item Description": "VRN 500 Plate 2500x1200x6mm",
+    "In Stock": 30,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1723,
+    "Item Description": "VRN 500 Plate 2500x1200x8mm",
+    "In Stock": 26,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1724,
+    "Item Description": "Welded Mesh 25x25x3.15mm (2.4m x 1.2m)  14.05kg",
+    "In Stock": 3,
+    "Item Group": "Wire",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1725,
+    "Item Description": "Welded Mesh 50x50x3.15mm (2.4m x 1.2m)  7.03kg",
+    "In Stock": 103,
+    "Item Group": "Wire",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1726,
+    "Item Description": "Welded Mesh 50x50x3.15mm (6.0m x 1.2m )  17.57kg",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1727,
+    "Item Description": "Window Section F7",
+    "In Stock": 484,
+    "Item Group": "Window Section",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1728,
+    "Item Description": "Window Section FX7",
+    "In Stock": 563,
+    "Item Group": "Window Section",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1729,
+    "Item Description": "Window Section RF4B",
+    "In Stock": "",
+    "Item Group": "Window Section",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1730,
+    "Item Description": "Rectangular Tube 60x40x3.0mm",
+    "In Stock": 3,
+    "Item Group": "Tube",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1731,
+    "Item Description": "Window Section RT13",
+    "In Stock": 844,
+    "Item Group": "Window Section",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1732,
+    "Item Description": "Window Section RT6",
+    "In Stock": 858,
+    "Item Group": "Window Section",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1733,
+    "Item Description": "Wire Coated Wire (White PVC) 1.6mm 25kg",
+    "In Stock": 84,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1734,
+    "Item Description": "Wire Rod in coil SAE1008  5.5mm",
+    "In Stock": "19,392.06",
+    "Item Group": "Wire",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1735,
+    "Item Description": "Labour for manufacturing",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1736,
+    "Item Description": "Labour for Brickforce 230mm",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1737,
+    "Item Description": "Universal Beam 533x210x122kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1738,
+    "Item Description": "Labour for Bullet hinges 20x70mm",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1739,
+    "Item Description": "Labour for Conforce 200x200 ECO",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1740,
+    "Item Description": "Labour for Conforce S193 Roll",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1741,
+    "Item Description": "Labour for cutting 12m to 6m Lipped Channel 100x50x20x2",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1742,
+    "Item Description": "Labour for cutting 12m to 6m Lipped Channel 150x50x20x2.5",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1743,
+    "Item Description": "Labour for cutting 12m to 6m Reinforcing Bar 16mm",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1744,
+    "Item Description": "Labour for cutting 12m to 6m Reinforcing Bar 20mm",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1745,
+    "Item Description": "Labour for cutting to length from coil Lipped Channel 100x50x20x1.5 ECO",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1746,
+    "Item Description": "Labour for cutting to length from coil Lipped Channel 100x50x20x2 12m",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1747,
+    "Item Description": "Labour for cutting to length from coil Sheets Galvanized 0.58mm",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1748,
+    "Item Description": "Labour for cutting to length from coil Sheets CR 0.7mm",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1749,
+    "Item Description": "Miscellaneous",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1750,
+    "Item Description": "Colorplus Coil AZ100 ISQ550 0.47mm - Charcoal Grey",
+    "In Stock": "2,753.96",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1751,
+    "Item Description": "Colorplus Coil AZ100 ISQ550 0.50mm - Rain Cloud",
+    "In Stock": 528.666,
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1752,
+    "Item Description": "Colorplus Coil AZ100 ISQ550 0.58mm - Rain Forest",
+    "In Stock": "11,485.64",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1753,
+    "Item Description": "Colorplus Coil AZ200 ISQ550 0.47mm - Thunderstorm",
+    "In Stock": 375.616,
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1754,
+    "Item Description": "Galv Coil ISQ230 Z200 - 1225x1.5",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1755,
+    "Item Description": "Galv Coil ISQ230 Z200 - 1225x1.9",
+    "In Stock": "1,381.61",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1756,
+    "Item Description": "Prepainted Coil 925x0.35 Kalahari Red",
+    "In Stock": 344.136,
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1757,
+    "Item Description": "Prepainted Coil 925x0.35 Traffic Green",
+    "In Stock": "9,850.42",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1758,
+    "Item Description": "Slit Coil HR 293 x 1.7mm",
+    "In Stock": "9,312.93",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1759,
+    "Item Description": "Sheet Galvanized 2450x1225x0.6mm",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1760,
+    "Item Description": "Prepainted 925x0.4mm - Traffic Green",
+    "In Stock": "2,013.91",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1761,
+    "Item Description": "Prepainted 925x0.4mm - Charcoal Grey",
+    "In Stock": 811.71,
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1762,
+    "Item Description": "Prepainted 925x0.4mm - Kalahari Red",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1763,
+    "Item Description": "Roofing Colorplus 925x0.50mm - Rain Cloud",
+    "In Stock": 150.2,
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1764,
+    "Item Description": "Roofing Colorplus 925x0.47mm - Charcoal Grey",
+    "In Stock": 198.34,
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1765,
+    "Item Description": "Roofing Colorplus 925x0.58mm - Rain Forest",
+    "In Stock": 25,
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1766,
+    "Item Description": "Beams  IPE AA S355 JR 200x100mm 6m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1767,
+    "Item Description": "Beams IPE AA S355 JR 140x73mm 6m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1768,
+    "Item Description": "Beams IPE AA S355 JR 160x82mm 6m",
+    "In Stock": 1,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1769,
+    "Item Description": "Angle Iron 30x30x4mm",
+    "In Stock": 42,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1770,
+    "Item Description": "Angle Iron 40x40x4mm",
+    "In Stock": 109,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1771,
+    "Item Description": "Angle Iron 50x50x4mm",
+    "In Stock": 351,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1772,
+    "Item Description": "Sheet Galvanized 2450x1225x1.5mm",
+    "In Stock": 276,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1773,
+    "Item Description": "Colorplus Coil AZ100 ISQ550 0.47mm Charcoal Grey",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1774,
+    "Item Description": "Colorplus Coil AZ100 ISQ550 0.50mm Rain Cloud",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1775,
+    "Item Description": "Colorplus Coil AZ100 ISQ550 0.58mm Rain Forest",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1776,
+    "Item Description": "Round Tube 76x2mm 7.2m",
+    "In Stock": 56,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1777,
+    "Item Description": "Round Tube 38x3mm",
+    "In Stock": 242,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1778,
+    "Item Description": "Cutting charge",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1779,
+    "Item Description": "Transport",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1780,
+    "Item Description": "Rent",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1781,
+    "Item Description": "QD Baby Pink 5l",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": ""
+  },
+  {
+    "Item No.": 1782,
+    "Item Description": "QD Signal Red 5l",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": ""
+  },
+  {
+    "Item No.": 1783,
+    "Item Description": "QD White 5l",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": ""
+  },
+  {
+    "Item No.": 1784,
+    "Item Description": "QD Golden Yellow 5l",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": ""
+  },
+  {
+    "Item No.": 1785,
+    "Item Description": "QD MB Green 5l",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": ""
+  },
+  {
+    "Item No.": 1786,
+    "Item Description": "Prepainted 925x0.58 - Charcoal Grey",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1787,
+    "Item Description": "De Fence 1800x2900 Panel Imported",
+    "In Stock": 4,
+    "Item Group": "Fencing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1788,
+    "Item Description": "Beams IPE AA S355JR 120x64mm 13m",
+    "In Stock": 90,
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1789,
+    "Item Description": "Square Tube 300x300x6mm",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1790,
+    "Item Description": "Lipped Channel Galv 75x50x20x2.0mm 12m",
+    "In Stock": 4,
+    "Item Group": "Channel",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1791,
+    "Item Description": "HR Coil CQ 1225x2.4",
+    "In Stock": "5,834.36",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1792,
+    "Item Description": "Round Tube 76x2.5mm",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1793,
+    "Item Description": "Conforce Mesh Wire S193 220x220x5.60mm (6x2.4) 27.79kg STD",
+    "In Stock": 136,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1794,
+    "Item Description": "Angle Iron 60x60x8mm 13m",
+    "In Stock": "",
+    "Item Group": "Angles",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1795,
+    "Item Description": "Pferd Cutting Disc Steel EH 230x1.9x22.23 9\" Slimline",
+    "In Stock": 20,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1796,
+    "Item Description": "Angle Iron 45x45x3mm",
+    "In Stock": 2,
+    "Item Group": "Angles",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1797,
+    "Item Description": "Gabion Basket Hex Galv Mesh 2.7mm - 2x1x1",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1798,
+    "Item Description": "Sheet HR 1225x2.5mm MTR",
+    "In Stock": 48,
+    "Item Group": "Sheets",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1799,
+    "Item Description": "Universal Beam 305x102x24.8kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1800,
+    "Item Description": "Universal Column 254x254x73kg 13m",
+    "In Stock": 4,
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1801,
+    "Item Description": "Round Tube HR 88.9x6mm 6m",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1802,
+    "Item Description": "Round Tube HR 114.3x6mm 6m",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1803,
+    "Item Description": "10000x2000x4.5mm Plate",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1804,
+    "Item Description": "Square Tube 76x76x3.0mm",
+    "In Stock": 56,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1805,
+    "Item Description": "Flat Bar 60x8",
+    "In Stock": 49,
+    "Item Group": "Bars",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1806,
+    "Item Description": "Slit Coil Galvanised 293x1.9mm",
+    "In Stock": "35,991.07",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1807,
+    "Item Description": "Slit Coil Galvanised 320x1.9mm",
+    "In Stock": "20,182.11",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1808,
+    "Item Description": "Pferd Cutting Disc Steelox EHT 230x3.2mm SG 9",
+    "In Stock": "3,463",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1809,
+    "Item Description": "Round Tube 97x3.0mm",
+    "In Stock": 4,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1810,
+    "Item Description": "Superflex Cutting Disc 300x2.8x25.4",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1811,
+    "Item Description": "Conforce Mesh Wire S617 200x200x10mm (6x2.4) 88.85kg",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1812,
+    "Item Description": "Interest on overdue balance",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1813,
+    "Item Description": "Lipped Channel CQ 100x70x20x2.0mm 6m",
+    "In Stock": 163,
+    "Item Group": "Channel",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1814,
+    "Item Description": "Sheet Galvanised 1225x1.5mm MTR",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1815,
+    "Item Description": "Pferd Cutting Disc OSG 350x3.6x25.4mm 80T",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1816,
+    "Item Description": "Slit Coil HR 320x1.7mm",
+    "In Stock": "4,276.64",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1817,
+    "Item Description": "Lipped Channel CQ 150x65x20x2mm MTR",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1818,
+    "Item Description": "Channel 100x50 6mm SUPALIGHT (Green)",
+    "In Stock": "1,982",
+    "Item Group": "Channel",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1819,
+    "Item Description": "Lipped Channel Galv 150x65x20x2.0mm MTR",
+    "In Stock": 497.308,
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1820,
+    "Item Description": "Lipped Channel CQ 150x65x20x2mm 6m",
+    "In Stock": 1,
+    "Item Group": "Channel",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1821,
+    "Item Description": "Angle Iron 30x30x3mm 5m",
+    "In Stock": 2,
+    "Item Group": "Angles",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1822,
+    "Item Description": "Round Tube 20x1.2mm",
+    "In Stock": 710,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1823,
+    "Item Description": "BV Inspection",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1824,
+    "Item Description": "Lipped Channel 200x50x20x2.0mm - MTR",
+    "In Stock": 172.5,
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1825,
+    "Item Description": "Galvanised 925x0.80mm",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1826,
+    "Item Description": "Prepainted Coil 925x0.47 Charcoal Grey",
+    "In Stock": "8,404.20",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1827,
+    "Item Description": "Prepainted Coil 925x0.47 Green",
+    "In Stock": "4,316",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1828,
+    "Item Description": "Round Bar Mild Steel 6mm MTR",
+    "In Stock": "1,938",
+    "Item Group": "Bars",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1829,
+    "Item Description": "Angle Iron 80x80x8mm 13mtr",
+    "In Stock": 3,
+    "Item Group": "Angles",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1830,
+    "Item Description": "QD Midnight Blue 5l",
+    "In Stock": 7,
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": ""
+  },
+  {
+    "Item No.": 1831,
+    "Item Description": "QD Purple 5l",
+    "In Stock": 3,
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": ""
+  },
+  {
+    "Item No.": 1832,
+    "Item Description": "Roofing IBR Galvanized Sheet 3.6m 0.40mm",
+    "In Stock": 649,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1833,
+    "Item Description": "Lippe Channel CQ 175x50x20x2.0mm - MTR",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1834,
+    "Item Description": "Flat Bar 200x16mm 12m",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1835,
+    "Item Description": "ST/TS Translucent 3.6m IBR CLEAR",
+    "In Stock": 21,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1836,
+    "Item Description": "ST/TS Polycarbonate 3.6m IBR OPAL",
+    "In Stock": 6,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1837,
+    "Item Description": "Raw material -  Cut & Bend",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1838,
+    "Item Description": "Supply, Cut & Bend (NO FIXING SERVICES PROVIDED)",
+    "In Stock": "8,809.47",
+    "Item Group": "Bars",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1839,
+    "Item Description": "Stainless Steel Round Bar 304 6mm Cold Drawn ISO h9",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1840,
+    "Item Description": "Mild Steel Plate 8000x1500x10mm",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1841,
+    "Item Description": "Mild Steel Plate 6000x1500x8mm",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1842,
+    "Item Description": "EN19 Black 260",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1843,
+    "Item Description": "Galv Coil ISQ550 Z60 914x0.21",
+    "In Stock": "13,105.42",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1844,
+    "Item Description": "Prepainted Coil 914x0.27 (Z60) Grey",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1845,
+    "Item Description": "Galv Coil ISQ550 Z60 914x0.22",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1846,
+    "Item Description": "Mild Steel Plate 6000x1500x6mm",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1847,
+    "Item Description": "Mild Steel Plate 6000x1500x10mm",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1848,
+    "Item Description": "Universal Beam 406x178x54kg 13m",
+    "In Stock": 2,
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1849,
+    "Item Description": "Universal Beam 305x165x40kg 13m",
+    "In Stock": 68,
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1850,
+    "Item Description": "Unequal Angle 90x65x6mm 13m",
+    "In Stock": "",
+    "Item Group": "Angles",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1851,
+    "Item Description": "Round Tube 20x0.8mm",
+    "In Stock": 187,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1852,
+    "Item Description": "Round Tube 32x0.8mm",
+    "In Stock": 345,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1853,
+    "Item Description": "Round Tube 25x1.0mm",
+    "In Stock": 252,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1854,
+    "Item Description": "Round Tube 38x1.0mm",
+    "In Stock": 488,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1855,
+    "Item Description": "Round Tube 76x1.25mm",
+    "In Stock": 461,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1856,
+    "Item Description": "Square Tube 25x25x0.8mm",
+    "In Stock": 286,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1857,
+    "Item Description": "Square Tube 30x30x0.8mm",
+    "In Stock": 676,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1858,
+    "Item Description": "Square Tube 20x20x1.0mm",
+    "In Stock": 175,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1859,
+    "Item Description": "Square Tube 38x38x1.0mm",
+    "In Stock": 116,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1860,
+    "Item Description": "Square Tube 50x50x1.0mm",
+    "In Stock": 168,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1861,
+    "Item Description": "Rectangular Tube 50x25x1.6mm GALV",
+    "In Stock": 484,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1862,
+    "Item Description": "Angle Iron 90x90x8mm 13m",
+    "In Stock": 63,
+    "Item Group": "Angles",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1863,
+    "Item Description": "Roofing IBR Galvanized Sheet 3.6m 0.22mm",
+    "In Stock": "1,352",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1864,
+    "Item Description": "Galvanized 914x0.22mm",
+    "In Stock": "1,515.20",
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1865,
+    "Item Description": "Slit Coil Galvanized 320x2.5mm",
+    "In Stock": "8,836.39",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1866,
+    "Item Description": "CR Coil CQ 1225x1.16",
+    "In Stock": 342.859,
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1867,
+    "Item Description": "Sheet Galvanized 1850x1225x0.58mm",
+    "In Stock": 164,
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1868,
+    "Item Description": "Lipped Channel ECO Galv 75x50x20x1.5mm 6m",
+    "In Stock": 15,
+    "Item Group": "Channel",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1869,
+    "Item Description": "Lipped Channel 125x75x20x2.0mm Galv 12m",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1870,
+    "Item Description": "Flat Bar 80x16mm 6m",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1871,
+    "Item Description": "Universal Beam 305x102x32.8kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1872,
+    "Item Description": "Square Tube 30x30x1.6mm GALV",
+    "In Stock": 49,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1873,
+    "Item Description": "Square Tube 20x20x1.25mm",
+    "In Stock": "1,404",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1874,
+    "Item Description": "Rectangular Tube 76x38x2.0mm",
+    "In Stock": 139,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1875,
+    "Item Description": "Angle Iron 100x100x8mm 13M",
+    "In Stock": "",
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1876,
+    "Item Description": "Angle Iron 100x100x10mm 13M",
+    "In Stock": 48,
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1877,
+    "Item Description": "Angle Iron 100x100x12mm 13M",
+    "In Stock": "",
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1878,
+    "Item Description": "Universal Beam 254x146x37kg 13M",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1879,
+    "Item Description": "Universal Beam 406x140x46kg 13M",
+    "In Stock": 1,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1880,
+    "Item Description": "Universal Beam 457x191x67kg 13M",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1881,
+    "Item Description": "Universal Beam 457x191x74.3kg 13M",
+    "In Stock": 1,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1882,
+    "Item Description": "Universal Beam 533x210x82.2kg 13M",
+    "In Stock": 3,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1883,
+    "Item Description": "Universal Column 152x152x23.0kg 13M",
+    "In Stock": 58,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1884,
+    "Item Description": "Galv Coil ISQ550 Z200 925x1.0mm",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1885,
+    "Item Description": "Universal Column 203x203x43kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1886,
+    "Item Description": "Round Bar Mild Steel 8mm MTR",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1887,
+    "Item Description": "Wire Rod in coil SAE1008 8.0mm",
+    "In Stock": "4,231.72",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1888,
+    "Item Description": "Mild Steel Plate 8400x1925x6mm",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1889,
+    "Item Description": "Mild Steel Plate 10000x2400x8mm",
+    "In Stock": 2,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1890,
+    "Item Description": "Rectangular Tube 80x40x3.0mm",
+    "In Stock": "",
+    "Item Group": "Tube",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1891,
+    "Item Description": "Round Tube 38x2.0mm SS304 Stainless Steel",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1892,
+    "Item Description": "Lipped Channel Galv 150x75x20x2.0mm MTR",
+    "In Stock": 872.4,
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1893,
+    "Item Description": "Mild Steel Plate 3000x1500x16mm",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1894,
+    "Item Description": "Beams IPE AA S355 JR 100x55mm 13m",
+    "In Stock": 135,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1895,
+    "Item Description": "Angle Iron 70x70x6mm 13M",
+    "In Stock": "",
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1896,
+    "Item Description": "Universal Column 203x203x46.1kg 13M",
+    "In Stock": 22,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1897,
+    "Item Description": "Lipped Channel ECO 75x50x20x1.5mm MTR",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1898,
+    "Item Description": "Sheet CR 610x1225x1.2mm",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1899,
+    "Item Description": "Rectangular Tube 50x25x1.25mm",
+    "In Stock": 178,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1900,
+    "Item Description": "Rectangular Tube 50x25x2mm",
+    "In Stock": 2,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1901,
+    "Item Description": "Universal Beam 406x178x60kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1902,
+    "Item Description": "Universal Beam 305x165x54kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1903,
+    "Item Description": "Universal Beam 533x210x109kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1904,
+    "Item Description": "Universal Beam 457x191x82kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1905,
+    "Item Description": "Universal Beam 406x178x74kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1906,
+    "Item Description": "10000x2400x10mm Plate",
+    "In Stock": 11,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1907,
+    "Item Description": "Flat Bar 40x12mm",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1908,
+    "Item Description": "Sheet Galvanised 1690x1225x0.58mm",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1909,
+    "Item Description": "Conforce Mesh Wire S257 150x150x5mm (60M ROLL) 370.40kg",
+    "In Stock": 74,
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1910,
+    "Item Description": "Angle Iron 70x70x10mm 13M",
+    "In Stock": "",
+    "Item Group": "Angles",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1911,
+    "Item Description": "Mild Steel Plate 8400x1925x6.0mm S355JR",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1912,
+    "Item Description": "Round Tube 304 38x1.2mm Stainless Steel",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1913,
+    "Item Description": "Reinforcing Wire in coil SANS920 450MPA Y6.0mm",
+    "In Stock": "34,461.11",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1914,
+    "Item Description": "Lipped Channel CQ 175x64x20x2.0mm 12m",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1915,
+    "Item Description": "Lipped Channel Galv 125x75x20x2.0mm MTR",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1916,
+    "Item Description": "Round Tube 193.7x4.0mm",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1917,
+    "Item Description": "Round Tube 76x3.0mm",
+    "In Stock": 82,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1918,
+    "Item Description": "Sheet Galvanized 1850x1225x0.5mm",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1919,
+    "Item Description": "Universal Beam 254x146x43.0kg 13M",
+    "In Stock": 14,
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1920,
+    "Item Description": "Mild Steel Plate 10000x1925x6.0mm S355JR",
+    "In Stock": 63,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1921,
+    "Item Description": "Conforce Mesh Wire S311 200x200x7.1mm (6x2.4) 44.78kg",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1922,
+    "Item Description": "Universal Column 305x305x96.9kg 13M",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1923,
+    "Item Description": "Slit Coil HR 345 x 1.8mm",
+    "In Stock": "5,723.01",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1924,
+    "Item Description": "Round Tube 32x2.0mm 5.2m",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1925,
+    "Item Description": "Stainless Steel Plate Grade 304 2500x1250x8mm",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1926,
+    "Item Description": "Conforce Mesh Wire S888 200x200x12mm (6x2.4) 127.87kg",
+    "In Stock": "",
+    "Item Group": "Bars",
+    "Inventory UoM": ""
+  },
+  {
+    "Item No.": 1927,
+    "Item Description": "Slit Coil Galvanized 146x0.8mm",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1928,
+    "Item Description": "Conforce Mesh Wire ECO 200x200x4.3mm (6x2.4) 160kg ROLL",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1929,
+    "Item Description": "Hole Punch Double Vee",
+    "In Stock": "",
+    "Item Group": "Non-Stock Item",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1930,
+    "Item Description": "Pferd Flap Disc curve steelox 115-Medium Z40 SGP",
+    "In Stock": 50,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1931,
+    "Item Description": "Pferd Flap Disc curve steelox 115-Large Z40 SGP",
+    "In Stock": 7,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1932,
+    "Item Description": "Pferd Flap Disc 115 Z40 PSF Steelox/1",
+    "In Stock": 278,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1933,
+    "Item Description": "Pferd Flap Disc 115 Z80 PSF Steelox",
+    "In Stock": 159,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1934,
+    "Item Description": "Sheet Galvanised 2560x1225x0.58mm",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1935,
+    "Item Description": "HR Coil CQ 1225x1.75",
+    "In Stock": "84,050.31",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1936,
+    "Item Description": "HR Coil CQ 1225x2.75",
+    "In Stock": "88,252.21",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1937,
+    "Item Description": "Galvanized 1225x0.5mm MTR",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1938,
+    "Item Description": "Sheet HR 1225x3.0mm MTR",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1939,
+    "Item Description": "Lipped Channel Galv 150x75x20x2.5mm MTR",
+    "In Stock": 2.976,
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1940,
+    "Item Description": "Bennox Plate 2500x1200x30mm",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1941,
+    "Item Description": "Bennox Plate 2500x1200x50mm",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1942,
+    "Item Description": "Mild Steel Plate 2500x1200x25mm S355JR",
+    "In Stock": 8,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1943,
+    "Item Description": "Chromadek Coil 925x0.58 (ISQ300) Aloe Green",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1944,
+    "Item Description": "Roofing IBR Galvanised Sheet 3.6m 0.21mm",
+    "In Stock": "2,578",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1945,
+    "Item Description": "Sheet HR 1225x2.0mm MTR",
+    "In Stock": 4.97,
+    "Item Group": "Sheets",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1946,
+    "Item Description": "Square Tube 32x32x1.5mm",
+    "In Stock": 400,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1947,
+    "Item Description": "Chequer Plate Mild Steel 6000x1200x4.5/6.1mm",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1948,
+    "Item Description": "Square Tube 25x25x1.25mm",
+    "In Stock": 348,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1949,
+    "Item Description": "Square Tube 30x30x1.25mm",
+    "In Stock": 358,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1950,
+    "Item Description": "Square Tube 40x40x1.25mm",
+    "In Stock": 223,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1951,
+    "Item Description": "10000x2400x25mm Boiler Plate 430A",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1952,
+    "Item Description": "Lipped Channel ECO 100x50x20x1.5mm MTR",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1953,
+    "Item Description": "Lipped Channel GALV 175x50x20x2mm 12m",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1954,
+    "Item Description": "Sheet CR 1225x0.6mm MTR",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1955,
+    "Item Description": "Sheet CR 1225x0.8mm MTR",
+    "In Stock": 327.085,
+    "Item Group": "Sheets",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1956,
+    "Item Description": "Roofing IBR Galvanised Sheet 3.6m 0.58mm",
+    "In Stock": 216,
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1957,
+    "Item Description": "Roofing IBR Galvanised Sheet 6.0m 0.58mm",
+    "In Stock": "",
+    "Item Group": "Roofing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1958,
+    "Item Description": "10000x2400x20mm Boiler Plate 430A",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1959,
+    "Item Description": "Channel 76x38mm 6m STD (Red)",
+    "In Stock": 432,
+    "Item Group": "Channel",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1960,
+    "Item Description": "Stainless Steel Round Bar 304 4mm Cold Drawn ISO h9",
+    "In Stock": "",
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1961,
+    "Item Description": "Stainless Steel  Coil 430 1250x0.7mm BA",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1962,
+    "Item Description": "Slit Coil Galvanized (ISQ230 Z200) 32x0.8mm",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1963,
+    "Item Description": "Chromadek Coil (ISQ300 Z200) 925x0.4mm Traffic Green",
+    "In Stock": "9,899.78",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1964,
+    "Item Description": "HR Coil CQ 1225x1.4",
+    "In Stock": "13,520",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1965,
+    "Item Description": "Chromadek Standard 925x0.4mm Traffic Green",
+    "In Stock": 133.35,
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1966,
+    "Item Description": "Square Tube 100x100x3.0mm",
+    "In Stock": "",
+    "Item Group": "Tube",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1967,
+    "Item Description": "Diamond Mesh (Rolls) 1.7mx50x2mm",
+    "In Stock": "",
+    "Item Group": "Fencing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1968,
+    "Item Description": "Diamond Mesh (Rolls) 2.35mx50x2mm",
+    "In Stock": "",
+    "Item Group": "Fencing",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1969,
+    "Item Description": "Lipped Channel Galv 175x65x20x2.5mm MTR",
+    "In Stock": 51,
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1970,
+    "Item Description": "Lipped Channel CQ 200x65x20x2.0mm MTR",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1971,
+    "Item Description": "10000x2400x20mm Plate S355JR",
+    "In Stock": 14,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1972,
+    "Item Description": "Lipped Channel Galv 175x65x20x2mm MTR",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1973,
+    "Item Description": "Pipe Seamless 100NB (114.3mm OD) 8.56mm Sch 80 6m",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1974,
+    "Item Description": "Round Tube (H/R) 127x4.0mm 6m",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1975,
+    "Item Description": "Round Tube (H/R) S355 114.3x5.0mm 6m",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1976,
+    "Item Description": "Round Tube (H/R) 165.1x4.5mm 6m",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1977,
+    "Item Description": "Pipe Seamless 100NB (141.3m OD) 9.52mm Sch 80 6m",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1978,
+    "Item Description": "Universal Beam 533x210x101kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1979,
+    "Item Description": "Universal Beam 356x171x51kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1980,
+    "Item Description": "10000x2400x16mm Plate (CQ)",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1981,
+    "Item Description": "Universal Beam 533x210x122kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1982,
+    "Item Description": "10000x2400x16mm Boiler Plate 430A",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1983,
+    "Item Description": "12000x2500x12mm Boiler Plate 430A",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1984,
+    "Item Description": "10000x2400x10mm Boiler Plate 430A",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1985,
+    "Item Description": "Round Tube 25x1.25mm 6m",
+    "In Stock": 479,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1986,
+    "Item Description": "Round Tube 32x1.25mm",
+    "In Stock": 802,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1987,
+    "Item Description": "Round Tube 38x1.25mm",
+    "In Stock": 807,
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1988,
+    "Item Description": "Universal Column 305x305x117.9kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1989,
+    "Item Description": "Wire Rod in Coil SAE1008 10.0mm",
+    "In Stock": "",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1990,
+    "Item Description": "EN8 Bright 8.93",
+    "In Stock": 608.3,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1991,
+    "Item Description": "Round Drawn SAE/AISI 1018 080A15 070M20 BMS 14.5 6.1m",
+    "In Stock": 176.9,
+    "Item Group": "Special Steel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1992,
+    "Item Description": "Galv Coil ISQ230 Z275 925x0.8mm",
+    "In Stock": "4,230",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 1993,
+    "Item Description": "Sheet Galvanised 12250.58mm MTR",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1994,
+    "Item Description": "Lipped Channel Galv 200x50x20x2.0mm MTR",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1995,
+    "Item Description": "Lipped Channel Galv 200x50x20x2.5mm MTR",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 1996,
+    "Item Description": "Round Tube 38.1x1.5mm 304 Stainless Steel",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1997,
+    "Item Description": "Diamond Mesh (Rolls) 2.5mx75x2.5mm 30m",
+    "In Stock": "",
+    "Item Group": "Wire",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 1998,
+    "Item Description": "Universal Beam 533x210x92.1kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 1999,
+    "Item Description": "Universal Beam 406x178x67.1kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 2000,
+    "Item Description": "Universal Beam 356x171x57kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 2001,
+    "Item Description": "Channel Iron 180x70 13m PF",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 2002,
+    "Item Description": "Mild Steel Plate 6000x1500x12mm",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 2003,
+    "Item Description": "Universal Column 203x203x52kg 13m",
+    "In Stock": "",
+    "Item Group": "Beams",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 2004,
+    "Item Description": "Slit Coil Galvanised 293x2.4mm",
+    "In Stock": "11,029",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 2005,
+    "Item Description": "Chequer Plate Mild Steel 6000x1200x6.0/7.6",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 2006,
+    "Item Description": "HR Pipe S355 457x10mm 6.096m",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 2007,
+    "Item Description": "10000x2400x25mm Plate",
+    "In Stock": 1,
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 2008,
+    "Item Description": "Chromadek Coil ISQ300 Z200 925x0.47mm Dove Grey",
+    "In Stock": "3,840.04",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 2009,
+    "Item Description": "10000x2400x30 Plate S355JR",
+    "In Stock": "",
+    "Item Group": "Plates",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 2010,
+    "Item Description": "Pferd Grinding Disc Steel+Inox 115x22.23 4.5\" CC-Grind-Robust",
+    "In Stock": 95,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 2011,
+    "Item Description": "Pferd Actirox Disc 115x22 #36 Grit - Trial Set",
+    "In Stock": 100,
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 2012,
+    "Item Description": "Angle Iron 120x120x10mm 13m",
+    "In Stock": "",
+    "Item Group": "Angles",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 2013,
+    "Item Description": "Round Tube 127x5.0mm",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 2014,
+    "Item Description": "Galvanized 914x0.21mm",
+    "In Stock": 8.5,
+    "Item Group": "Roofing",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 2015,
+    "Item Description": "Pferd 115mm Z40 Trim Steelox",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 2016,
+    "Item Description": "Pferd 115mm Z60 Trim Steelox",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 2017,
+    "Item Description": "Pferd PLCD 115mm - 13 Policlean",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 2018,
+    "Item Description": "Pferd Flap Disc 115 Z60 Steelox",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 2019,
+    "Item Description": "Pferd Grinding Disc 125mm Grind-Robust",
+    "In Stock": "",
+    "Item Group": "Hardware",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 2020,
+    "Item Description": "HR Pipe S355 356x10mm 9.144m",
+    "In Stock": "",
+    "Item Group": "Tubes",
+    "Inventory UoM": "Len"
+  },
+  {
+    "Item No.": 2021,
+    "Item Description": "Chromadek Coil ISQ300 Z200 925x0.47mm Traffic Green",
+    "In Stock": "4,540",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 2022,
+    "Item Description": "Chromadek Coil ISQ300 Z200 925x0.47mm Dark Dolphin",
+    "In Stock": "17,330",
+    "Item Group": "Coils",
+    "Inventory UoM": "Kg"
+  },
+  {
+    "Item No.": 2023,
+    "Item Description": "Sheet CR 1225x410x0.6mm",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "Ea"
+  },
+  {
+    "Item No.": 2024,
+    "Item Description": "Sheet CR 1225x0.5mm MTR",
+    "In Stock": "",
+    "Item Group": "Sheets",
+    "Inventory UoM": "M"
+  },
+  {
+    "Item No.": 2025,
+    "Item Description": "Lipped Channel CQ 125x75x20x2mm MTR",
+    "In Stock": "",
+    "Item Group": "Channel",
+    "Inventory UoM": "M"
+  }
+]

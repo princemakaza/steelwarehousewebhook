@@ -5,39 +5,40 @@ const companyDetailsService = require("../service/company_details_service");
 // Route to create new company details and send OTP (simpler response)
 router.post("/create", async (req, res) => {
   try {
-    // First create the company details
-    const companyDetails = await companyDetailsService.createCompanyDetails(
-      req.body
-    );
+    // First generate and send the OTP
+    const otpSent = await companyDetailsService.generateAndSendOTP(req.body.phoneNumber);
 
-    await companyDetailsService.generateAndSendOTP(req.body.phoneNumber);
+    if (!otpSent) {
+      return res.status(500).json({
+        success: false,
+        message: "Failed to generate and send OTP",
+      });
+    }
+
+    // Only create company details if OTP was sent successfully
+    const companyDetails = await companyDetailsService.createCompanyDetails(req.body);
 
     res.status(201).json({
       success: true,
-      message:
-        "Company details created successfully and OTP has been sent to your number",
+      message: "OTP sent successfully and company details created",
       data: companyDetails,
     });
   } catch (error) {
-    if (error.message === "Email already exists") {
+    if (error.message === "Email already exists" || error.message === "Company TIN already exists") {
       return res.status(409).json({
         success: false,
         message: error.message,
       });
     }
-    if (error.message === "Company TIN already exists") {
-      return res.status(409).json({
-        success: false,
-        message: error.message,
-      });
-    }
+
     res.status(400).json({
       success: false,
-      message: "Error creating company details",
+      message: "Error during company creation",
       error: error.message,
     });
   }
 });
+
 // Route to create new company details and send OTP (with OTP response)
 router.post("/create/return/otp", async (req, res) => {
   try {
