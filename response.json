@@ -1,0 +1,69 @@
+{
+    "success": true,
+    "recommendations": [
+        {
+            "itemNo": 1950,
+            "itemDescription": "Square Tube 40x40x1.25mm",
+            "inStock": "223",
+            "itemGroup": "Tubes",
+            "inventoryUoM": "Ea",
+            "note": "Similar to your request (closest available to 50x50x1.6mm square tube)."
+        },
+        {
+            "itemNo": 1667,
+            "itemDescription": "Square Tube 40x40x1.5mm",
+            "inStock": "309",
+            "itemGroup": "Tubes",
+            "inventoryUoM": "Len",
+            "note": "Similar to your request (closest available to 50x50x1.6mm and 25x25x1.6mm square tube)."
+        },
+        {
+            "itemNo": 1668,
+            "itemDescription": "Square Tube 40x40x2.0mm",
+            "inStock": "1184",
+            "itemGroup": "Tubes",
+            "inventoryUoM": "Len",
+            "note": "Similar to your request (closest available to 50x50x1.6mm and 25x25x1.6mm square tube, but thicker wall)."
+        },
+        {
+            "itemNo": 1861,
+            "itemDescription": "Rectangular Tube 50x25x1.6mm GALV",
+            "inStock": "484",
+            "itemGroup": "Tubes",
+            "inventoryUoM": "Len",
+            "note": "Similar to your request (closest available to 50x50x1.6mm and 25x25x1.6mm square tube, but rectangular profile)."
+        },
+        {
+            "itemNo": 1064,
+            "itemDescription": "Channel 152x76mm 6m",
+            "inStock": "314",
+            "itemGroup": "Channel",
+            "inventoryUoM": "Ea",
+            "note": "Similar to your request (closest available to 76x38 channel Aron, but larger size)."
+        },
+        {
+            "itemNo": 1776,
+            "itemDescription": "Round Tube 76x2mm 7.2m",
+            "inStock": "56",
+            "itemGroup": "Tubes",
+            "inventoryUoM": "Ea",
+            "note": "Similar to your request (closest available to 16m roundbar, but this is a round tube, not a solid bar)."
+        },
+        {
+            "itemNo": 1600,
+            "itemDescription": "Round Tube 76x1.5mm 7.2m",
+            "inStock": "1",
+            "itemGroup": "Tubes",
+            "inventoryUoM": "Ea",
+            "note": "Similar to your request (closest available to 16m roundbar, but this is a round tube, not a solid bar)."
+        },
+        {
+            "itemNo": 1510,
+            "itemDescription": "Rectangular Tube 40x20x1.5mm",
+            "inStock": "433",
+            "itemGroup": "Tube",
+            "inventoryUoM": "Len",
+            "note": "Similar to your request (closest available to 25x3m flat bar, but this is a rectangular tube)."
+        }
+    ]
+}

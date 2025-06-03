@@ -14,7 +14,6 @@ router.post("/create", async (req, res) => {
         message: "Failed to generate and send OTP",
       });
     }
-
     // Only create company details if OTP was sent successfully
     const companyDetails = await companyDetailsService.createCompanyDetails(req.body);
 

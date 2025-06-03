@@ -2,7 +2,6 @@ const express = require("express");
 const router = express.Router();
 const inventoryService = require("../service/inventory_service");
 
-
 router.post("/recommendations", async (req, res) => {
   try {
     const { clientInfo, requestText } = req.body;

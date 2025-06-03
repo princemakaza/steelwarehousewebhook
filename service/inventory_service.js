@@ -205,7 +205,6 @@ const getRecommendedInventoryItems = async (clientInfo, requestText) => {
     }
     console.log("🧠 Results", result);
 
-
     // Step 3: Format top matches
     const matchedItems = result.matches
       .filter((m) => m.metadata && m.metadata.itemNo)
@@ -217,7 +216,7 @@ const getRecommendedInventoryItems = async (clientInfo, requestText) => {
         inventoryUoM: m.metadata.inventoryUoM || "",
         score: m.score,
       }));
-      console.log("🧠 Match items", matchedItems);
+    console.log("🧠 Match items", matchedItems);
 
     // Step 4: Prepare and send prompt to GPT
     const prompt = `
@@ -235,10 +234,43 @@ Available inventory items (in stock only):
 ${JSON.stringify(matchedItems)}
 
 Rules:
-1. If the exact item exists, include it first with note: "We have this in stock."
-2. If not, suggest up to 3–5 similar items with note: "Similar to your request."
-3. Output only a max of 10 items in JSON array format with fields:
-   - itemNo, itemDescription, inStock, itemGroup, inventoryUoM, note
+1. ONLY include items that are available in stock (either exact matches or similar items)
+2. For exact matches, include with note: "We have this in stock."
+3. For similar items, include with note explaining the similarity: "Similar to your request (reason for similarity)."
+4. NEVER include items that are not in stock
+5. Output should be a JSON array with only available items containing these fields:
+   - itemNo
+   - itemDescription
+   - inStock
+   - itemGroup
+   - inventoryUoM
+   - note
+
+Example Output Format:
+[
+  {
+    "itemNo": "STL-101",
+    "itemDescription": "Double V Standards 1.8m length",
+    "inStock": "150",
+    "itemGroup": "STANDARDS",
+    "inventoryUoM": "EA",
+    "note": "We have this in stock."
+  },
+  {
+    "itemNo": "FNC-205",
+    "itemDescription": "Field Fence 1.2m height",
+    "inStock": "45",
+    "itemGroup": "FENCING",
+    "inventoryUoM": "RL",
+    "note": "Similar to your request (1.5m height available)."
+  }
+]
+
+Important:
+- Do NOT include any items that aren't available
+- Do NOT include the requestedItem field
+- Only return items that exist in the Available inventory items list
+- Format the inStock numbers without commas (e.g., "3819" instead of "3,819")
 `;
 
     let gptResponse;
@@ -249,7 +281,7 @@ Rules:
         temperature: 0.3,
       });
 
-      gptResponse = completion.choices[0]?.message.content.trim();;
+      gptResponse = completion.choices[0]?.message.content.trim();
 
       // Log raw AI response
       console.log("🧠 GPT Raw Response:\n", gptResponse);
@@ -292,25 +324,8 @@ Rules:
   }
 };
 
-
-// const getRecommendedInventoryItemsTwo = async (clientInfo, requestText) => {
-//   try {
-//     const { name, clientId, company } = clientInfo;
-
-//     const inventoryItems = await Inventory.find()
-//       .sort({ _id: -1 }) // Get newest items first
-//       .limit(515); // Take the last 515 items (from the end)
-//     const prompt = `
+//   const prompt = `
 // You are an AI assistant that helps a steel warehouse recommend inventory items based on a customer's WhatsApp message.
-
-// Your job is to:
-// 1. Understand what the customer is looking for, based on their request.
-// 2. Look through the available inventory (in stock only).
-// 3. If the exact item exists, include it first and say: "We have this in stock."
-// 4. If the exact item is not found, suggest up to 3–5 similar items and say: "We don't have the exact item, but here are some close alternatives."
-// 5. If both exact and similar items exist, show both — exact matches first.
-// 6. Only consider items with a valid, non-empty "inStock" value.
-// 7. Use itemDescription as the main basis for matching, considering size, material, type, and application.
 
 // Customer Info:
 // - Name: ${name}
@@ -320,65 +335,15 @@ Rules:
 // Customer's Request:
 // "${requestText}"
 
-// Inventory items available (in stock only):
-// ${JSON.stringify(inventoryItems)}
+// Available inventory items (in stock only):
+// ${JSON.stringify(matchedItems)}
 
-// Your output should be a JSON array with up to 10 objects. Each object should have:
-// - itemNo
-// - itemDescription
-// - inStock
-// - itemGroup
-// - inventoryUoM
-// - note: either "We have this in stock." or "Similar to your request."
-
-// Example format:
-// [
-//   {
-//     "itemNo": 1001,
-//     "itemDescription": "10000x2000x10mm Plate",
-//     "inStock": 4,
-//     "itemGroup": "Plates",
-//     "inventoryUoM": "Ea",
-//     "note": "We have this in stock."
-//   },
-//   {
-//     "itemNo": 1009,
-//     "itemDescription": "Aluminium Chequer Plate 2500x1250x1.5mm",
-//     "inStock": 47,
-//     "itemGroup": "Plates",
-//     "inventoryUoM": "Ea",
-//     "note": "Similar to your request."
-//   }
-// ]
-
-// Do NOT output the full inventory list. Only return relevant items that match the user's intent.
+// Rules:
+// 1. If the exact item exists, include it first with note: "We have this in stock."
+// 2. If not, suggest up to 3–5 similar items with note: "Similar to your request."
+// 3. Output only a max of 10 items in JSON array format with fields:
+//    - itemNo, itemDescription, inStock, itemGroup, inventoryUoM, note
 // `;
-
-//     const response = await openai.chat.completions.create({
-//       model: "gpt-4.1",
-//       messages: [{ role: "user", content: prompt }],
-//       temperature: 0.3, // Optional: more deterministic response
-//     });
-
-//     const rawMessage = response.choices[0].message.content.trim();
-//     // Attempt to extract JSON from response
-//     const jsonMatch = rawMessage.match(/```(?:json)?\n?([\s\S]*?)\n?```/);
-//     const cleanJson = jsonMatch ? jsonMatch[1] : rawMessage;
-
-//     let parsed;
-//     try {
-//       parsed = JSON.parse(cleanJson);
-//     } catch (err) {
-//       console.warn("⚠️ Failed to parse JSON, returning raw content.");
-//       return { airesponse: rawMessage }; // Return raw content if JSON parsing fails
-//     }
-
-//     return { airesponse: parsed };
-//   } catch (error) {
-//     throw new Error(`Failed to get recommendations: ${error.message}`);
-//   }
-// };
-
 module.exports = {
   createInventoryItem,
   createManyInventoryItems,
