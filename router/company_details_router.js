@@ -243,18 +243,22 @@ router.post("/send-otp", async (req, res) => {
   }
 });
 
-// Route to verify OTP
+// 1. Route  – guarantee string before you even call the service
 router.post("/verify-otp", async (req, res) => {
   try {
-    const { phoneNumber, otpCode } = req.body;
-    const result = await companyDetailsService.verifyOTP(phoneNumber, otpCode);
+    const { phone_number, otpCode } = req.body;
+
+    // force both values to strings
+    const result = await companyDetailsService.verifyOTP(
+      String(phone_number),
+      String(otpCode).trim()     // "682025"
+    );
+
     res.status(200).json(result);
   } catch (error) {
-    res.status(400).json({
-      success: false,
-      message: error.message,
-    });
+    res.status(400).json({ success: false, message: error.message });
   }
 });
+
 
 module.exports = router;

@@ -130,33 +130,82 @@ const generateAndSendOTP = async (phoneNumber) => {
   }
 };
 
-// Service to verify OTP
+// const verifyOTP = async (phoneNumber, otpCode) => {
+//   try {
+//     // Convert to string and remove all non-digit characters
+//     const cleanOtp = String(otpCode).replace(/\D/g, '');
+    
+//     // Validate OTP format
+//     if (!cleanOtp || cleanOtp.length < 4 || cleanOtp.length > 10) {
+//       throw new Error('OTP must be 4-10 digits');
+//     }
+
+//     // Format the phone number for Twilio
+//     const formattedNumber = phoneNumber.startsWith("+")
+//       ? phoneNumber
+//       : `+${phoneNumber}`;
+
+//     // Verify the OTP with Twilio
+//     const verificationCheck = await twilioClient.verify.v2
+//       .services(process.env.TWILIO_VERIFY_SERVICE_ID)
+//       .verificationChecks.create({
+//         to: formattedNumber,
+//         code: cleanOtp  // Use cleaned OTP
+//       });
+
+//     if (verificationCheck.status === "approved") {
+//       // Update the contact verification status in the database
+//       await CompanyDetails.findOneAndUpdate(
+//         { phoneNumber },
+//         { isContactVerified: true }
+//       );
+//       return { success: true, message: "OTP verified successfully" };
+//     } else {
+//       throw new Error("Invalid OTP code");
+//     }
+//   } catch (error) {
+//     // Log detailed error for debugging
+//     console.error('Twilio Verification Error:', {
+//       phoneNumber,
+//       error: error.message,
+//       stack: error.stack
+//     });
+//     throw new Error(`OTP verification failed: ${error.message}`);
+//   }
+// };
+
+
+// 2. Service – work with a consistent signature
 const verifyOTP = async (phoneNumber, otpCode) => {
   try {
-    // Format the phone number for Twilio
-    const formattedNumber = phoneNumber.startsWith("+")
+    const formattedNumber = phoneNumber.startsWith('+')
       ? phoneNumber
       : `+${phoneNumber}`;
+      console.log(`Formatted phone number: ${formattedNumber}`);
+      console.log(`OTP Code: ${otpCode}`);
 
-    // Verify the OTP with Twilio
+    // Twilio call – otpCode is already a string
     const verificationCheck = await twilioClient.verify.v2
       .services(process.env.TWILIO_VERIFY_SERVICE_ID)
-      .verificationChecks.create({ to: formattedNumber, code: otpCode });
+      .verificationChecks
+      .create({ to: formattedNumber, code: otpCode });
+      
+    if (verificationCheck.status !== 'approved')
+      throw new Error('Invalid OTP code');
 
-    if (verificationCheck.status === "approved") {
-      // Update the contact verification status in the database
-      await CompanyDetails.findOneAndUpdate(
-        { phoneNumber },
-        { isContactVerified: true }
-      );
-      return { success: true, message: "OTP verified successfully" };
-    } else {
-      throw new Error("Invalid OTP code");
-    }
-  } catch (error) {
-    throw new Error(`OTP verification failed: ${error.message}`);
+    // update DB (make sure the field name matches your schema)
+    await CompanyDetails.findOneAndUpdate(
+      { phoneNumber },                  // phoneNumber === "+263..."
+      { isContactVerified: true }
+    );
+
+    return { success: true, message: 'OTP verified successfully' };
+  } catch (err) {
+    throw new Error(`OTP verification failed: ${err.message}`);
   }
 };
+
+
 
 const getCompanyDetailsByTin = async (companyTIN) => {
   try {
