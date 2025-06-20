@@ -5,74 +5,72 @@ const companyDetailsService = require("../service/company_details_service");
 // Route to create new company details and send OTP (simpler response)
 router.post("/create", async (req, res) => {
   try {
-    // First generate and send the OTP
-    const otpSent = await companyDetailsService.generateAndSendOTP(req.body.phoneNumber);
+    // Create company first
+    const companyDetails = await companyDetailsService.createCompanyDetails(
+      req.body
+    );
 
-    if (!otpSent) {
-      return res.status(500).json({
-        success: false,
-        message: "Failed to generate and send OTP",
-      });
-    }
-    // Only create company details if OTP was sent successfully
-    const companyDetails = await companyDetailsService.createCompanyDetails(req.body);
+    // Then send OTP
+    const otpSent = await companyDetailsService.generateAndSendOTP(
+      req.body.phoneNumber
+    );
 
     res.status(201).json({
       success: true,
-      message: "OTP sent successfully and company details created",
+      message: "Company created and OTP sent",
       data: companyDetails,
     });
   } catch (error) {
-    if (error.message === "Email already exists" || error.message === "Company TIN already exists") {
+    // Handle uniqueness errors
+    if (
+      error.message.includes("already exists") ||
+      error.message === "Phone number not found"
+    ) {
       return res.status(409).json({
         success: false,
         message: error.message,
       });
     }
-
     res.status(400).json({
       success: false,
-      message: "Error during company creation",
+      message: "Error during creation",
       error: error.message,
     });
   }
 });
-
 // Route to create new company details and send OTP (with OTP response)
 router.post("/create/return/otp", async (req, res) => {
   try {
-    // First create the company details
     const companyDetails = await companyDetailsService.createCompanyDetails(
       req.body
     );
-
-    // Then send OTP to the provided phone number
     const otpResponse = await companyDetailsService.generateAndSendOTP(
       req.body.phoneNumber
     );
 
     res.status(201).json({
-      message:
-        "Company details created successfully and OTP has been sent to your number",
+      message: "Company created and OTP sent",
       data: {
         companyDetails,
-        otpInfo: {
-          status: otpResponse.success,
-          message: otpResponse.message,
-        },
+        otpInfo: otpResponse,
       },
     });
   } catch (error) {
-    if (error.message === "Email already exists") {
-      return res.status(409).json({ message: error.message });
+    // Handle uniqueness errors
+    if (
+      error.message.includes("already exists") ||
+      error.message === "Phone number not found"
+    ) {
+      return res.status(409).json({
+        message: error.message,
+      });
     }
     res.status(400).json({
-      message: "Error creating company details",
+      message: "Creation failed",
       error: error.message,
     });
   }
 });
-
 // Route to get all company details (secured)
 router.get("/getall", async (req, res) => {
   try {
@@ -136,7 +134,7 @@ router.get("/getbytin/:companyTIN", async (req, res) => {
   const { companyTIN } = req.params;
   try {
     const company = await companyDetailsService.getCompanyDetailsByTin(
-        companyTIN
+      companyTIN
     );
     if (!company) {
       return res.status(404).json({ message: "Company not found" });
@@ -192,27 +190,26 @@ router.put("/update/:id", async (req, res) => {
   }
 });
 
-
 router.put("/updatebycompanytin/:companyTIN", async (req, res) => {
-    try {
-      const updatedDetails = await companyDetailsService.updateCompanyDetails(
-        req.params.companyTIN,
-        req.body
-      );
-      if (!updatedDetails) {
-        return res.status(404).json({ message: "Company details not found" });
-      }
-      res.status(200).json({
-        message: "Company details updated successfully",
-        data: updatedDetails,
-      });
-    } catch (error) {
-      res.status(500).json({
-        message: "Error updating company details",
-        error: error.message,
-      });
+  try {
+    const updatedDetails = await companyDetailsService.updateCompanyDetails(
+      req.params.companyTIN,
+      req.body
+    );
+    if (!updatedDetails) {
+      return res.status(404).json({ message: "Company details not found" });
     }
-  });
+    res.status(200).json({
+      message: "Company details updated successfully",
+      data: updatedDetails,
+    });
+  } catch (error) {
+    res.status(500).json({
+      message: "Error updating company details",
+      error: error.message,
+    });
+  }
+});
 
 // Route to delete company details (secured)
 router.delete("/delete/:id", async (req, res) => {
@@ -251,7 +248,7 @@ router.post("/verify-otp", async (req, res) => {
     // force both values to strings
     const result = await companyDetailsService.verifyOTP(
       String(phone_number),
-      String(otpCode).trim()     // "682025"
+      String(otpCode).trim() // "682025"
     );
 
     res.status(200).json(result);
@@ -260,5 +257,30 @@ router.post("/verify-otp", async (req, res) => {
   }
 });
 
+// Route to login with companyTIN and phoneNumber
+router.post("/login", async (req, res) => {
+  try {
+    const { companyTIN, phoneNumber } = req.body;
+
+    if (!companyTIN || !phoneNumber) {
+      return res.status(400).json({
+        success: false,
+        message: "Both companyTIN and phoneNumber are required",
+      });
+    }
+
+    const result = await companyDetailsService.loginCompany(
+      String(companyTIN).trim(),
+      String(phoneNumber).trim()
+    );
+
+    res.status(200).json(result);
+  } catch (error) {
+    res.status(401).json({
+      success: false,
+      message: error.message,
+    });
+  }
+});
 
 module.exports = router;

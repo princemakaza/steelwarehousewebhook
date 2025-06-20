@@ -8,30 +8,40 @@ const twilioClient = require("twilio")(
 // Service to create new company details
 const createCompanyDetails = async (companyDetailsData) => {
   try {
-    // Check if email already exists
+    // Check for existing email
     const existingEmail = await CompanyDetails.findOne({
       email: companyDetailsData.email,
     });
-    if (existingEmail) {
-      throw new Error("Email already exists");
-    }
+    if (existingEmail) throw new Error("Email already exists");
 
-    // Check if companyTIN already exists
+    // Check for existing TIN
     const existingTIN = await CompanyDetails.findOne({
       companyTIN: companyDetailsData.companyTIN,
     });
-    if (existingTIN) {
-      throw new Error("Company TIN already exists");
-    }
+    if (existingTIN) throw new Error("Company TIN already exists");
 
-    // Create and save new company details
+    // Check for existing phone number
+    const existingPhone = await CompanyDetails.findOne({
+      phoneNumber: companyDetailsData.phoneNumber,
+    });
+    if (existingPhone) throw new Error("Phone number already exists");
+
+    // Create new entry
     const newCompanyDetails = new CompanyDetails(companyDetailsData);
     await newCompanyDetails.save();
     return newCompanyDetails;
   } catch (error) {
+    // Handle duplicate key error (fallback)
+    if (error.code === 11000) {
+      const key = Object.keys(error.keyPattern)[0];
+      throw new Error(`${key} already exists`);
+    }
     throw new Error(error.message);
   }
 };
+
+
+
 // Service to get all company details
 const getAllCompanyDetails = async () => {
   try {
@@ -130,50 +140,6 @@ const generateAndSendOTP = async (phoneNumber) => {
   }
 };
 
-// const verifyOTP = async (phoneNumber, otpCode) => {
-//   try {
-//     // Convert to string and remove all non-digit characters
-//     const cleanOtp = String(otpCode).replace(/\D/g, '');
-    
-//     // Validate OTP format
-//     if (!cleanOtp || cleanOtp.length < 4 || cleanOtp.length > 10) {
-//       throw new Error('OTP must be 4-10 digits');
-//     }
-
-//     // Format the phone number for Twilio
-//     const formattedNumber = phoneNumber.startsWith("+")
-//       ? phoneNumber
-//       : `+${phoneNumber}`;
-
-//     // Verify the OTP with Twilio
-//     const verificationCheck = await twilioClient.verify.v2
-//       .services(process.env.TWILIO_VERIFY_SERVICE_ID)
-//       .verificationChecks.create({
-//         to: formattedNumber,
-//         code: cleanOtp  // Use cleaned OTP
-//       });
-
-//     if (verificationCheck.status === "approved") {
-//       // Update the contact verification status in the database
-//       await CompanyDetails.findOneAndUpdate(
-//         { phoneNumber },
-//         { isContactVerified: true }
-//       );
-//       return { success: true, message: "OTP verified successfully" };
-//     } else {
-//       throw new Error("Invalid OTP code");
-//     }
-//   } catch (error) {
-//     // Log detailed error for debugging
-//     console.error('Twilio Verification Error:', {
-//       phoneNumber,
-//       error: error.message,
-//       stack: error.stack
-//     });
-//     throw new Error(`OTP verification failed: ${error.message}`);
-//   }
-// };
-
 
 // 2. Service – work with a consistent signature
 const verifyOTP = async (phoneNumber, otpCode) => {
@@ -215,6 +181,32 @@ const getCompanyDetailsByTin = async (companyTIN) => {
   }
 };
 
+const loginCompany = async (companyTIN, phoneNumber) => {
+  try {
+    const company = await CompanyDetails.findOne({
+      companyTIN,
+      phoneNumber,
+    });
+
+    if (!company) {
+      throw new Error("Invalid TIN or phone number");
+    }
+
+    if (!company.isContactVerified) {
+      throw new Error("Phone number not verified. Please complete OTP verification.");
+    }
+
+    return {
+      success: true,
+      message: "Login successful",
+      data: company,
+    };
+  } catch (error) {
+    throw new Error(error.message);
+  }
+};
+
+
 module.exports = {
   createCompanyDetails,
   getAllCompanyDetails,
@@ -226,4 +218,5 @@ module.exports = {
   generateAndSendOTP,
   verifyOTP,
   getCompanyDetailsByTin,
+  loginCompany
 };
